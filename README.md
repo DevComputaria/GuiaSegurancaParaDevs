@@ -1,5 +1,5 @@
 # GuiaSegurancaParaDevs
-:notebook: Guia de segurança para DevComputeiros
+:notebook: Guia de segurança para DevComputeiros com especialidade em GED (Gambiarra, Exploit e Desenvolvimento)
 
 ### O Público Alvo
 
