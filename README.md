@@ -18,115 +18,60 @@ Nossas explicações detalhadas devem ajudar a primeira categoria enquanto esper
 2. O que pode dar errado?
 3. Transportando dados de forma segura: HTTP explicado
 4. Eu sou quem digo que sou: Autenticação 	
-
-    4.1 Autenticação baseada em formulário
-    
-    4.2 Autenticação básica	
-    
-    4.3 Um não é o suficiente: 2 fatores, 3 fatores... 	
-    
-    4.4 Por que usar mensgens de texto inseguras? HOTP & TOTP 	
-    
-    4.5 Lidando com reset de passwords 	
-    
+    1. 4.1 Autenticação baseada em formulário    
+    2. 4.2 Autenticação básica	
+    3. 4.3 Um não é o suficiente: 2 fatores, 3 fatores... 	
+    4. 4.4 Por que usar mensgens de texto inseguras? HOTP & TOTP 	
+    5. 4.5 Lidando com reset de passwords     
 5. O que eu posso fazer? Autorização	
-
-    5.1 Autorização baseada em token
-    
-    5.2 OAuth & OAuth2  
-    
-    5.3 JWT	
-    
+    1. 5.1 Autorização baseada em token
+    2. 5.2 OAuth & OAuth2  
+    3. 5.3 JWT	
 6. Não confie em ninguém: Entradas (inputs) de usuários são DO MAL	
-
-    6.1 Sanitizando Entradas  	
-    
-    6.2 Sanitizando Saídas 
-    
-    6.3 Scriptação Entre Sites (Cross Site Scripting aka XSS)  	
-    
-    6.4 Ataques de Injeção (Injection) 	
-    
-    6.5 Uploas de Usuário 	
-    
-    6.6 Entradas de usuários à prova de alterações 	
-    
+    1. 6.1 Sanitizando Entradas  	
+    2. 6.2 Sanitizando Saídas 
+    3. 6.3 Scriptação Entre Sites (Cross Site Scripting aka XSS)  	
+    4. 6.4 Ataques de Injeção (Injection) 	
+    5. 6.5 Uploas de Usuário 	
+    6.6.6 Entradas de usuários à prova de alterações 	
 7. Texto puro (plaintext) != Codificação (encoding) != Criptografia  != Hashing  	
-
-    7.1 Esquemas comuns de codificação 		
-    
-    7.2 Criptografia 	
-    
-    7.3 Hashing & Funções de uma via 	
-    
-    7.4 Guia rápido de velocidade de hashing 	
-    
+    1. 7.1 Esquemas comuns de codificação 		
+    2. 7.2 Criptografia 	
+    3. 7.3 Hashing & Funções de uma via 	
+    4.7.4 Guia rápido de velocidade de hashing 	
 8. dadada, 123456, futebol@123: Senhas 	
-
-    8.1 Políticas de Senha 		
-    
-    8.2 Armazenamento de Senhas  
-    
-    8.3 Uma Vida sem Senhas 
-    
-    9. Chave Pública de Criptografia  
-    
+    1. 8.1 Políticas de Senha 		
+    2. 8.2 Armazenamento de Senhas  
+    3. 8.3 Uma Vida sem Senhas 
+9. Chave Pública de Criptografia  
 10. Por favor, lembre-se de mim: Lidando com Sessões 		
-
-    10.1 Onde salvar o estado? 
-    
-    10.2 Invalidando sessões
-    
-    10.3 O monstro dos cookies & você 	
-    
+    1. 10.1 Onde salvar o estado? 
+    2. 10.2 Invalidando sessões
+    3. 10.3 O monstro dos cookies & você 	
 11. Consertando a Segurança, um cabeçalho de cada vez 
-
-    11.1 Cabeçalhos web seguros 
-    
-    11.2 Checagem de integridade de dados para códigos de terceiros 
-    
-    11.3 Fixando Certificados 	
-    
+    1. 11.1 Cabeçalhos web seguros 
+    2. 11.2 Checagem de integridade de dados para códigos de terceiros 
+    3. 11.3 Fixando Certificados 	
 12. Erros de Configuração 
-
-    12.0 Provisionamento em nuvem: Portas, Shodan & AWS 	
-    
-    12.1 Amor, você deixou o debug ligado 	
-    
-    12.2 Logar (ou não logar) 	
-    
-    12.3 Monitoramento  
-    
-    12.4 Princípio do Menos Privilegiado 
-    
-    12.5 Limitação de Avaliações & Captchas 
-    
-    12.6 Armazenando de segredos de projetos e senhas em arquivo 
-    
-    12.7 DNS: De subdomínios e projetos menores esquecidos  	
-    
-    12.7 Patching & Updates  	
-    
+    1. 12.0 Provisionamento em nuvem: Portas, Shodan & AWS 	
+    2. 2.1 Amor, você deixou o debug ligado 	
+    3. 12.2 Logar (ou não logar) 	
+    4. 12.3 Monitoramento  
+    5. 12.4 Princípio do Menos Privilegiado 
+    6. 12.5 Limitação de Avaliações & Captchas 
+    7. 12.6 Armazenando de segredos de projetos e senhas em arquivo 
+    8. 12.7 DNS: De subdomínios e projetos menores esquecidos  	
+    9. 12.7 Patching & Updates  	
 13. Quando o vilão chega: Ataques 	
-
-    13.1 Sequestro de cliques 	
-    
-    13.2 Falsificação de Requisições Entre Sites (CSRF) 	
-    
-    13.3 Negação de Serviço (DoS) 	
-    
-    13.4 Falsificação de Requisições pelo Servidor (SSRF) 	
-    
+    1. 13.1 Sequestro de cliques 	
+    2. 13.2 Falsificação de Requisições Entre Sites (CSRF) 	
+    3. 13.3 Negação de Serviço (DoS) 	
+    4. 13.4 Falsificação de Requisições pelo Servidor (SSRF) 	
 14. [Estatísticas sobre vulnerabilidades encontradas em empresas de internet](vulnerabilities-stats.md)   
-
 15. Sobre reinventar a roda, e torná-la quadrada 
-
-    15.1 Bibliotecas e pacotes de segurança para Python  
-    
-    15.2 Bibliotecas e pacotes de segurança para Node/JS 	
-    
-    15.3 Aprendendo sobre Recursos 
-    
+    1. 15.1 Bibliotecas e pacotes de segurança para Python  
+    2. 15.2 Bibliotecas e pacotes de segurança para Node/JS 	
+    3. 15.3 Aprendendo sobre Recursos     
 16. Mantendo uma boa higiene de segurança 
 17. Segurança vs Usabilidade 
 18. Voltando pra casa 1: O Checklist de Segurança explicado 
