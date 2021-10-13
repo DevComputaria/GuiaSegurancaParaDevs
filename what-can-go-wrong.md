@@ -16,7 +16,7 @@ But how do the hackers get the data dump in the first place? Most of the times i
 
 Another common way that hackers get these dumps is by simply connecting on the database machines belong to the companies that have either no passwords and are exposed publicly on the internet or have common or weak passwords. Shodan, a search engine for open ports over the whole internet provides an easy way to search for open databases like MongoDb, MySQL and even the db sizes. Taking a dump of these databases is a matter of minutes to hours depending on the quantity of data. We will learn about various configuration mistakes in Chapter 12.
 
-![Shodan search for open MongoDb instances](images/shodan.png)
+![image](https://user-images.githubusercontent.com/16365313/137044563-371daace-d5f5-4ce7-a98c-5d8855757f9f.png)
 
 Two important questions arise -
 
@@ -33,7 +33,7 @@ When you use a third party service like Google Analytics or login via Facebook o
 
 An important vulnerability for serious stuff like device takeover or stealing remote information is Remote Code Execution or the ability to run an arbitrary piece of code on the target's device, be it a laptop, mobile phone or a [nuclear power plant (e.g. Stuxnet is a sophisticated malware designed to sabotage nuclear facilities)](https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/). If you go through Apple iOS and macOS security update logs, you will get instances of RCE fixes in almost every other update,  [like for example taking over an Apple device via a simple text message or email](https://www.theguardian.com/technology/2016/jul/22/stagefright-flaw-ios-iphone-imessage-apple). And, [there might be an equivalent bug for Android so that Apple haters are not left out on getting hacked.](https://www.theguardian.com/technology/2015/jul/28/stagefright-android-vulnerability-heartbleed-mobile). There have been a significantly large number of vulnerabilties in Adobe Flash which could be exploited to run a hackers code, one of the reasons for its deprecation from major web browsers.
 
-![Top 50 products by disclosed vulnerabilites](images/cves.png)
+![image](https://user-images.githubusercontent.com/16365313/137044595-6033de08-d965-4f3f-948a-d2cd20439bb7.png)
 
 **Human Factor in Security**
 An important but mostly overlooked aspect of security design and flaws is social engineering attacks. Human interaction is an important aspect of software and is often misused in various non-technical ways to gain illegal access to systems. For example, the hacker who called Verizon to get a new SIM to hack the activist's account probably did not write a single line of code to break 2 factor authentication. A huge population around the world, mainly in developing countries are having their first internet experience right now. Without the right set of information, it would be fairly easy to engineer an attack that would appear legitimate to them and then convince them in exposing their personal information, passwords and payment details. For example a link like https://google.com/amp/gmail-login.website will redirect to gmail-login.website which can be a valid hackers website with Gmail like login page thanks to new TLDs or domain extensions like .website coming up. This is happening at an alarming rate right now. If the dating app in our earlier example has not set their DNS settings for email properly (specifically SPF header, DMARC and DKIM), it would be fairly easy to send a mail appearing to come from their domain and email address and then exploit their users into revealing personal data. DNS settings are explained in detail in Chapter 12. 
@@ -45,11 +45,12 @@ Every system on the internet be it a website or a mobile app like Pokemon Go is 
 
 Note that the compromised systems need not be computers or mobile phones. It can be any internet connected device which has some processing power and ability to execute code. With devices such as baby monitors, digital cameras connected to internet and most of them with default passwords or weak passwords, it has become fairly easy to create botnets using these devices. Mirai is such a botnet that feeds on insecure IoT devices and [whose code was recently released on GitHub](https://github.com/jgamblin/Mirai-Source-Code) by an anonymous hacker. [Reports suggest Mirai bots have more than doubled since the release of its source code in public](https://threatpost.com/mirai-bots-more-than-double-since-source-code-release/121368/). [Insecam is a directory of  insecure internet enabled cameras](https://www.insecam.org/) that gives you live feeds from around the world.
 
-![Open internet enabled camera feeds on Insecam](images/insecam.png)
+![image](https://user-images.githubusercontent.com/16365313/137044633-d7aab3f0-0c26-4785-8389-4c890449317f.png)
 
 DDoS attacks are generally measured in terms of bandwidth of traffic. The recent attack on Dyn, a DNS service provider for major internet services was mesured to be of 1.2Tbps, almost twice the size of the largest DDoS attack of all time, which too happened in 2016.
 
-![A map of live DDoS attacks](images/ddos.png) 
+![A map of live DDoS attacks](https://user-images.githubusercontent.com/16365313/137044669-79bfb79f-5322-42fe-a676-978bb0b0395f.png)
+
 
 
 You can read more about DoS attacks in Chapter 13.
