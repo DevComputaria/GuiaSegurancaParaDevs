@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>
+            <![CDATA[Dark Reading]]>
+        
+        </title>
+        <description>
+            <![CDATA[Dark Reading: Connecting the Information and Security Community]]>
+        
+        </description>
+        <link>https://www.darkreading.com</link>
+        <image>
+            <url>https://beta.darkreading.com/images/DR-logo-284x42.jpeg</url>
+            <title>Dark Reading</title>
+            <link>https://www.darkreading.com</link>
+        </image>
+        <generator>Informa Tech</generator>
+        <lastBuildDate>Tue, 02 Nov 2021 04:00:51 GMT</lastBuildDate>
+        <atom:link href="https://www.darkreading.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <copyright>
+            <![CDATA[Copyright (C) 2000-2021 Dark Reading - All rights reserved.]]>
+        
+        </copyright>
+        <language>
+            <![CDATA[en-us]]>
+        
+        </language>
+        <item>
+            <title>
+                <![CDATA[How AI-Driven Security Analytics Speeds Up Enterprise Defense]]>
+            
+            </title>
+            <description>
+                <![CDATA[Fresh off a $250 million Series E round, Devo Technology plans to expand the core security analytics platform with new features to help enterprise defenders work with security data faster and more effectively.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/dr-tech/how-ai-driven-security-analytics-speeds-up-enterprise-defense</link>
+            <guid isPermaLink="true">https://www.darkreading.com/dr-tech/how-ai-driven-security-analytics-speeds-up-enterprise-defense</guid>
+            <pubDate>Mon, 01 Nov 2021 22:12:38 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt26f97eb1d3176e85/616484f6452a7b79909d517c/dataanalytics-NicoElNino-adobe-cp.jpg" type="image/*"/>
+            <dc:creator>Fahmida Y. Rashid, Features Editor, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt93784ffee79538e7/60d4371522d24e38a3806ecf/fahmida.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[CISA and Partners Coordinate on Security, Combatting Misinformation for Election Day]]>
+            
+            </title>
+            <description>
+                <![CDATA[CISA will host an election situational awareness room to coordinate with federal partners, state and local election officials, private sector election partners, and political organizations to share real-time information and provide support as needed.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/cisa-and-partners-coordinate-on-security-combatting-misinformation-for-election-day</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/cisa-and-partners-coordinate-on-security-combatting-misinformation-for-election-day</guid>
+            <pubDate>Mon, 01 Nov 2021 21:48:07 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Zscaler’s 2021 Encrypted Attacks Report Reveals 314% Spike in HTTPS Threats]]>
+            
+            </title>
+            <description>
+                <![CDATA[Massive increase in cyberattacks targeting technology and retail industries confirms immediate need for zero-trust security]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/zscaler-s-2021-encrypted-attacks-report-reveals-314-spike-in-https-threats</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/zscaler-s-2021-encrypted-attacks-report-reveals-314-spike-in-https-threats</guid>
+            <pubDate>Mon, 01 Nov 2021 21:45:44 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[New 'Trojan Source' Method Lets Attackers Hide Vulns in Source Code]]>
+            
+            </title>
+            <description>
+                <![CDATA[Researchers discover a new technique attackers could use to encode vulnerabilities into software while evading detection.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/threat-intelligence/new-trojan-source-method-lets-attackers-hide-vulns-in-source-code</link>
+            <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/new-trojan-source-method-lets-attackers-hide-vulns-in-source-code</guid>
+            <pubDate>Mon, 01 Nov 2021 21:05:00 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[CrowdStrike to Buy Zero-Trust SaaS Provider]]>
+            
+            </title>
+            <description>
+                <![CDATA[SecureCircle provides data-level zero-trust control to endpoints.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/cloud/crowdstrike-to-buy-zero-trust-saas-provider</link>
+            <guid isPermaLink="true">https://www.darkreading.com/cloud/crowdstrike-to-buy-zero-trust-saas-provider</guid>
+            <pubDate>Mon, 01 Nov 2021 20:57:43 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[SonicWall: 'The Year of Ransomware' Continues with Unprecedented Late-Summer Surge]]>
+            
+            </title>
+            <description>
+                <![CDATA[2021 will be the most costly and dangerous year on record.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/sonicwall-the-year-of-ransomware-continues-with-unprecedented-late-summer-surge</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/sonicwall-the-year-of-ransomware-continues-with-unprecedented-late-summer-surge</guid>
+            <pubDate>Mon, 01 Nov 2021 20:57:22 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Free Tool Scans Web Servers for Vulnerability to HTTP Header-Smuggling Attacks]]>
+            
+            </title>
+            <description>
+                <![CDATA[A researcher will release an open source tool at Black Hat Europe next week that roots out server weaknesses to a sneaky type of attack.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/application-security/free-tool-scans-web-servers-for-vulnerability-to-http-header-smuggling-attacks</link>
+            <guid isPermaLink="true">https://www.darkreading.com/application-security/free-tool-scans-web-servers-for-vulnerability-to-http-header-smuggling-attacks</guid>
+            <pubDate>Mon, 01 Nov 2021 20:37:36 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9df7b0f56595ef5d/6180447d7875d162341b01ec/HTTPsmuggling.jpeg" type="image/*"/>
+            <dc:creator>Kelly Jackson Higgins, Executive Editor</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Name That Edge Toon: Parting Thoughts]]>
+            
+            </title>
+            <description>
+                <![CDATA[Feeling creative? Come up with a clever caption, and our panel of experts will reward the winner with a $25 Amazon gift card.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/edge-articles/name-that-edge-toon-parting-thoughts</link>
+            <guid isPermaLink="true">https://www.darkreading.com/edge-articles/name-that-edge-toon-parting-thoughts</guid>
+            <pubDate>Mon, 01 Nov 2021 18:10:36 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt480049743f058318/617ff03f7875d162341b0096/Edge_nov2021_toon.jpg" type="image/*"/>
+            <dc:creator>John Klossner, Cartoonist</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf97d71984b60d7ed/60b1e88b5d34de550780a96e/Klossner_iwk_photo.gif" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Understanding the Human Communications Attack Surface]]>
+            
+            </title>
+            <description>
+                <![CDATA[Companies should recognize that collaboration platforms aren't isolated, secure channels where traditional threats don't exist.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/understanding-the-human-communications-attack-surface</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/understanding-the-human-communications-attack-surface</guid>
+            <pubDate>Mon, 01 Nov 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8e3aff50b2938855/613217d9242b480228096806/BreachLock.jpeg" type="image/*"/>
+            <dc:creator>Otavio Freire, CTO &amp; President, SafeGuard Cyber</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02f1df95f685787c/60d443fb993b04384638f565/Otavio-Freire.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Enterprises Allocating More IT Dollars on Cybersecurity]]>
+            
+            </title>
+            <description>
+                <![CDATA[Enterprises are allocating more IT dollars toward implementing a multilayered approach to securing data and applications against new threats, data shows.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/tech-trends/enterprises-allocating-more-it-dollars-on-cybersecurity</link>
+            <guid isPermaLink="true">https://www.darkreading.com/tech-trends/enterprises-allocating-more-it-dollars-on-cybersecurity</guid>
+            <pubDate>Fri, 29 Oct 2021 23:33:25 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt845abf9aa05d3150/617d3bc5649186056041f8ce/ttrends-1029.jpg" type="image/*"/>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Snyk Agrees to Acquire CloudSkiff, Creators of driftctl]]>
+            
+            </title>
+            <description>
+                <![CDATA[New capabilities allow Snyk Infrastructure as Code customers to more effectively detect infrastructure drift.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/application-security/snyk-agrees-to-acquire-cloudskiff-creators-of-driftctl</link>
+            <guid isPermaLink="true">https://www.darkreading.com/application-security/snyk-agrees-to-acquire-cloudskiff-creators-of-driftctl</guid>
+            <pubDate>Fri, 29 Oct 2021 21:36:25 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[APTs, Teleworking, and Advanced VPN Exploits: The Perfect Storm]]>
+            
+            </title>
+            <description>
+                <![CDATA[A Mandiant researcher shares the details of an investigation into the misuse of Pulse Secure VPN devices by suspected state-sponsored threat actors.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/threat-intelligence/apts-teleworking-and-advanced-vpn-exploits-the-perfect-storm</link>
+            <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/apts-teleworking-and-advanced-vpn-exploits-the-perfect-storm</guid>
+            <pubDate>Fri, 29 Oct 2021 20:35:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc3235c17217d41c1/617c59279d64530fa0372bfe/vpn.jpg" type="image/*"/>
+            <dc:creator>Kelly Sheridan, Senior Editor</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d62bf1a6a54fdcf/60b1e9ed2d381b69fb11e95e/Sheridan-IWK-125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Russian National Accused of Role in Trickbot Is Extradited to US]]>
+            
+            </title>
+            <description>
+                <![CDATA[Court documents say Vladimir Dunaev is alleged to have been a malware developer for the Trickbot Group.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/russian-national-accused-of-role-in-trickbot-is-extradited-to-us</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/russian-national-accused-of-role-in-trickbot-is-extradited-to-us</guid>
+            <pubDate>Fri, 29 Oct 2021 19:34:03 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cybercriminals Take Aim at Connected Car Infrastructure]]>
+            
+            </title>
+            <description>
+                <![CDATA[While car makers are paying more attention to cybersecurity, the evolution of automobiles into "software platforms on wheels" and the quick adoption of new features has put connected cars in the crosshairs.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/cybercriminals-take-aim-at-connected-car-infrastructure</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/cybercriminals-take-aim-at-connected-car-infrastructure</guid>
+            <pubDate>Fri, 29 Oct 2021 16:08:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf0cbc619bd5a6635/617c1e2b4c81c60f8e458056/upstream-auto-chart.jpg" type="image/*"/>
+            <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[What Exactly Is Secure Access Service Edge (SASE)?]]>
+            
+            </title>
+            <description>
+                <![CDATA[Any company that supports a hybrid workforce should at least be familiar with this relatively new security approach.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/edge-ask-the-experts/what-exactly-is-secure-access-service-edge-sase-</link>
+            <guid isPermaLink="true">https://www.darkreading.com/edge-ask-the-experts/what-exactly-is-secure-access-service-edge-sase-</guid>
+            <pubDate>Fri, 29 Oct 2021 14:58:40 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf43af5956e404946/617c119b06bde3103b1a6b55/cloud-network-security.jpeg" type="image/*"/>
+            <dc:creator>Shaila Shankar, SVP and General Manager, Cisco Cloud Network and Security</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf049f5509a99409c/617c03ff7ce9a21030aa4643/shaila-shankar-cisco.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[A Treehouse of Security Horrors]]>
+            
+            </title>
+            <description>
+                <![CDATA[True-life horrors from conversations with software engineers and developers. <i>D'oh! </i>]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/a-treehouse-of-security-horrors</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/a-treehouse-of-security-horrors</guid>
+            <pubDate>Fri, 29 Oct 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5925aa6b195cca60/61733058a2e4e263c2445d51/ScaryForest.jpg" type="image/*"/>
+            <dc:creator>Adam Caudill, Principal Security Engineer at 1Password</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt84aa8cd4814741ff/60d4489a76a3de39ad0bbbe7/Adam-Caudill.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Finding the Right Approach to Cloud Security Posture Management (CSPM)]]>
+            
+            </title>
+            <description>
+                <![CDATA[Cloud security is maturing — it has to. New strategies are surfacing to respond to new problems. Dr. Mike Lloyd, RedSeal's CTO, reviews one of the latest: CSPM.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/cloud/finding-the-right-approach-to-cloud-security-posture-management-cspm-</link>
+            <guid isPermaLink="true">https://www.darkreading.com/cloud/finding-the-right-approach-to-cloud-security-posture-management-cspm-</guid>
+            <pubDate>Fri, 29 Oct 2021 13:52:53 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[6 Ways to Rewrite the Impossible Job Description]]>
+            
+            </title>
+            <description>
+                <![CDATA[It's hard enough to fill a cybersecurity position given the talent shortage. But you may be making it harder with a poor job description that turns off would-be candidates.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/edge-slideshows/6-ways-to-rewrite-the-impossible-job-description</link>
+            <guid isPermaLink="true">https://www.darkreading.com/edge-slideshows/6-ways-to-rewrite-the-impossible-job-description</guid>
+            <pubDate>Thu, 28 Oct 2021 21:02:34 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5ca7d30e8ae9ff59/617b11fa09c5cf0f99bfc6a7/HelpWanted-B5PCWW.jpg" type="image/*"/>
+            <dc:creator>Pam Baker, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt27ddf587f90b8df1/60d67d13e1461d39eb8349b3/Pam-Baker.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[SEO Poisoning Used to Distribute Ransomware]]>
+            
+            </title>
+            <description>
+                <![CDATA[This tactic — used to distribute REvil ransomware and the SolarMarker backdoor — is part of a broader increase in such attacks in recent months, researchers say.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/seo-poisoning-used-to-distribute-ransomware</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/seo-poisoning-used-to-distribute-ransomware</guid>
+            <pubDate>Thu, 28 Oct 2021 20:58:50 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8b0076e4e158921a/617b04144c81c60f8e457e7a/seo.jpg" type="image/*"/>
+            <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Top Hardware Weaknesses List Debuts]]>
+            
+            </title>
+            <description>
+                <![CDATA[CWE list aimed at designers and programmers to avoid key hardware weaknesses early in product development.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/top-hardware-weaknesses-list-debuts</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/top-hardware-weaknesses-list-debuts</guid>
+            <pubDate>Thu, 28 Oct 2021 20:57:25 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ICS Security Firm Dragos Reaches $1.7B Valuation in Latest Funding Round]]>
+            
+            </title>
+            <description>
+                <![CDATA[The $200M Series D represents the company's largest funding round to date.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/ics-security-firm-dragos-reaches-1-7b-valuation-in-latest-funding-round</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/ics-security-firm-dragos-reaches-1-7b-valuation-in-latest-funding-round</guid>
+            <pubDate>Thu, 28 Oct 2021 20:31:03 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb074c0d225b5c63d/60f5c90c138d416455fdaf61/ColonialPipelineGasPump.jpeg" type="image/*"/>
+            <dc:creator>Kelly Jackson Higgins, Executive Editor</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb0e0f8e307c2012b/615dfe95486c9a5b53695aa0/KJH.PNG" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Ordr Unveils Cybersecurity Innovations and Ransom-Aware Rapid Assessment Service to Expand Its Leadership In Connected Device Security]]>
+            
+            </title>
+            <description>
+                <![CDATA[Enhanced ransomware detection, visualization of ransomware communications, and risk customization helps organizations respond to cyberattacks in minutes.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/ordr-unveils-cybersecurity-innovations-and-ransom-aware-rapid-assessment-service-to-expand-its-leadership-in-connected-device-security</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/ordr-unveils-cybersecurity-innovations-and-ransom-aware-rapid-assessment-service-to-expand-its-leadership-in-connected-device-security</guid>
+            <pubDate>Thu, 28 Oct 2021 20:18:55 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[NSA-CISA Series on Securing 5G Cloud Infrastructures]]>
+            
+            </title>
+            <description>
+                <![CDATA[CISA encourages 5G providers, integrators, and network operators to review the guidance and consider the recommendations.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/cloud/nsa-cisa-series-on-securing-5g-cloud-infrastructures</link>
+            <guid isPermaLink="true">https://www.darkreading.com/cloud/nsa-cisa-series-on-securing-5g-cloud-infrastructures</guid>
+            <pubDate>Thu, 28 Oct 2021 20:14:08 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Tech Companies Create Security Baseline for Enterprise Software]]>
+            
+            </title>
+            <description>
+                <![CDATA[The Minimum Viable Secure Product is written as a checklist of minimum-security requirements for business-to-business software.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/application-security/tech-companies-create-security-baseline-for-enterprise-software</link>
+            <guid isPermaLink="true">https://www.darkreading.com/application-security/tech-companies-create-security-baseline-for-enterprise-software</guid>
+            <pubDate>Thu, 28 Oct 2021 19:50:00 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[US to Create Diplomatic Bureau to Lead Cybersecurity Policy]]>
+            
+            </title>
+            <description>
+                <![CDATA[As part of its modernization initiative, the Department of State will increase its IT budget by 50% and add a new bureau to lead cybersecurity and digital policy.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/risk/us-to-create-diplomatic-bureau-to-lead-cybersecurity-policy</link>
+            <guid isPermaLink="true">https://www.darkreading.com/risk/us-to-create-diplomatic-bureau-to-lead-cybersecurity-policy</guid>
+            <pubDate>Thu, 28 Oct 2021 19:24:14 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt85eaf7e8de73a257/617afb9aa42dc90fafe737a8/digitalflag.jpeg" type="image/*"/>
+            <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Stop Zero-Day Ransomware Cold With AI]]>
+            
+            </title>
+            <description>
+                <![CDATA[AI can help recognize ransomware attacks and stop them at computer speed.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/emerging-tech/stop-zero-day-ransomware-cold-with-ai</link>
+            <guid isPermaLink="true">https://www.darkreading.com/emerging-tech/stop-zero-day-ransomware-cold-with-ai</guid>
+            <pubDate>Thu, 28 Oct 2021 18:35:48 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1841280f659ad2fb/616eee20d516d66515991659/Fig_1.png" type="image/*"/>
+            <dc:creator>Max Heinemeyer, Director of Threat Hunting, Darktrace</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte8f9edb9f3f119b1/6178dc684c81c60f8e45792b/Max_Heinmeyer_Headshot.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[3 Security Lessons Learned From the Kaseya Ransomware Attack]]>
+            
+            </title>
+            <description>
+                <![CDATA[Organizations can better prepare themselves and their customers for these attacks with some strategies to identify threats before they become a widespread issue.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/3-security-lessons-learned-from-the-kaseya-ransomware-attack</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/3-security-lessons-learned-from-the-kaseya-ransomware-attack</guid>
+            <pubDate>Thu, 28 Oct 2021 17:00:00 +0000</pubDate>
+            <dc:creator>Ashok Sankar, VP of Solutions Marketing, ReliaQuest</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt41b0a7ee08b206b5/617771728e5244495079219f/AshokSankar_HS_2.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[You've Just Been Ransomed ... Now What?]]>
+            
+            </title>
+            <description>
+                <![CDATA[Six crucial steps executives and IT teams should be prepared to take immediately after a ransomware attack.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/you-ve-just-been-ransomed---now-what-</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/you-ve-just-been-ransomed---now-what-</guid>
+            <pubDate>Thu, 28 Oct 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt32e9877a94209c51/611a8753961af910ebfb9980/RansomwareLock.jpeg" type="image/*"/>
+            <dc:creator>Daniel Clayton, Vice President Global Security Services and Support at Bitdefender</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt2777e91497051098/6169bb7b11916641e5992329/Screen_Shot_2021-10-15_at_9.31.03_AM.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[HelpSystems Acquires Digital Guardian, Extends DLP Capabilities]]>
+            
+            </title>
+            <description>
+                <![CDATA[The acquisition strengthens HelpSystems’ data security portfolio with data loss prevention capabilities across the endpoint, network, and cloud.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/cloud/helpsystems-acquires-digital-guardian-extends-dlp-capabilities</link>
+            <guid isPermaLink="true">https://www.darkreading.com/cloud/helpsystems-acquires-digital-guardian-extends-dlp-capabilities</guid>
+            <pubDate>Wed, 27 Oct 2021 23:34:47 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta388e0fb281c1138/615bdca9034b035592020293/Data.jpg" type="image/*"/>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Defenders Worry Orgs Are More Vulnerable Than Last Year]]>
+            
+            </title>
+            <description>
+                <![CDATA[Most IT and security leaders are confident their cybersecurity strategies are on the right track, but they still believe their organizations are as vulnerable as they were a year ago.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/edge-threat-monitor/defenders-worry-orgs-are-more-vulnerable-than-last-year</link>
+            <guid isPermaLink="true">https://www.darkreading.com/edge-threat-monitor/defenders-worry-orgs-are-more-vulnerable-than-last-year</guid>
+            <pubDate>Wed, 27 Oct 2021 21:17:26 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf3cb57fb10d10410/6179c60406bde3103b1a66af/tmonitor-oct26.jpg" type="image/*"/>
+            <dc:creator>Edge Editors, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[QR Codes Help Attackers Sneak Emails Past Security Controls]]>
+            
+            </title>
+            <description>
+                <![CDATA[A recently discovered campaign shows how attackers are constantly developing new techniques to deceive phishing victims.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/qr-codes-help-attackers-sneak-emails-past-security-controls</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/qr-codes-help-attackers-sneak-emails-past-security-controls</guid>
+            <pubDate>Wed, 27 Oct 2021 20:53:22 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4f352999256d8b1f/617993694c81c60f8e457ba1/phishing.jpg" type="image/*"/>
+            <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Read Between the Lines: Finding Flaws in EPUB Reading Systems]]>
+            
+            </title>
+            <description>
+                <![CDATA[Security researchers who analyzed 97 free EPUB reading applications found half are not compliant with security recommendations.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/read-between-the-lines-finding-flaws-in-epub-reading-systems</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/read-between-the-lines-finding-flaws-in-epub-reading-systems</guid>
+            <pubDate>Wed, 27 Oct 2021 18:58:48 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltd1aa9900f6845d40/61799cc380548f1051145ff8/ereader.jpg" type="image/*"/>
+            <dc:creator>Kelly Sheridan, Senior Editor</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d62bf1a6a54fdcf/60b1e9ed2d381b69fb11e95e/Sheridan-IWK-125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Kaspersky Buys Brain4Net to Build SASE & XDR Tools]]>
+            
+            </title>
+            <description>
+                <![CDATA[Brain4Net builds tools to help enterprises and service providers add SD-WAN and NFV technologies to their existing infrastructure.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/cloud/kaspersky-buys-brain4net-to-build-sase-xdr-tools</link>
+            <guid isPermaLink="true">https://www.darkreading.com/cloud/kaspersky-buys-brain4net-to-build-sase-xdr-tools</guid>
+            <pubDate>Wed, 27 Oct 2021 17:10:00 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[6 Eye-Opening Statistics About Software Supply Chain Security]]>
+            
+            </title>
+            <description>
+                <![CDATA[The latest facts and figures on the state of software supply chain security in the enterprise.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/application-security/6-eye-opening-statistics-about-software-supply-chain-security</link>
+            <guid isPermaLink="true">https://www.darkreading.com/application-security/6-eye-opening-statistics-about-software-supply-chain-security</guid>
+            <pubDate>Wed, 27 Oct 2021 16:28:29 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt45eb156f03761332/617843604c81c60f8e457901/supplychainfeaturedimage.jpeg" type="image/*"/>
+            <dc:creator>Ericka Chickowski, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cybercriminals Ramp Up Attacks on Web APIs]]>
+            
+            </title>
+            <description>
+                <![CDATA[As more organizations use application programming interfaces for Web applications, attacks and security incidents targeting APIs continue to grow.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/threat-intelligence/cybercriminals-ramp-up-attacks-on-web-apis</link>
+            <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/cybercriminals-ramp-up-attacks-on-web-apis</guid>
+            <pubDate>Wed, 27 Oct 2021 16:19:11 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d72bdf2784fb006/61796eae19950c1042fd8878/akamai-chart.jpg" type="image/*"/>
+            <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Identity-Focused Security Controls Prevail]]>
+            
+            </title>
+            <description>
+                <![CDATA[How identity and access management strategies held up during the pandemic and tips for putting together an identity security road map.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/operations/identity-focused-security-controls-prevail</link>
+            <guid isPermaLink="true">https://www.darkreading.com/operations/identity-focused-security-controls-prevail</guid>
+            <pubDate>Wed, 27 Oct 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9e691826e8040fa0/6171c6737b858563c8bc4408/IdentityAlamy.jpg" type="image/*"/>
+            <dc:creator>Clint Maples, CISO at Robert Half</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6aa7bf4a50eb303d/6169dc9dc68fe52664b88dc0/C_Maples.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Annual Cyber Risk Survey Finds Businesses Are Sharpening Their Focus on Cybersecurity but Also Reveals Much Room for Improvement in Building Cyber-Resilience]]>
+            
+            </title>
+            <description>
+                <![CDATA[This year's survey features the highest percentage of cyber insurance buyers since the beginning of the survey 11 years ago.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/risk/annual-cyber-risk-survey-finds-businesses-are-sharpening-their-focus-on-cybersecurity-but-also-reveals-much-room-for-improvement-in-building-cyber-resilience</link>
+            <guid isPermaLink="true">https://www.darkreading.com/risk/annual-cyber-risk-survey-finds-businesses-are-sharpening-their-focus-on-cybersecurity-but-also-reveals-much-room-for-improvement-in-building-cyber-resilience</guid>
+            <pubDate>Wed, 27 Oct 2021 13:59:28 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cyber Readiness Institute Names Karen S. Evans as New Managing Director]]>
+            
+            </title>
+            <description>
+                <![CDATA[Former assistant secretary for cybersecurity, energy security, and emergency response at US Department of Energy and Homeland Security CIO to lead strategic vision and day-to-day operations.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/operations/cyber-readiness-institute-names-karen-s-evans-as-new-managing-director</link>
+            <guid isPermaLink="true">https://www.darkreading.com/operations/cyber-readiness-institute-names-karen-s-evans-as-new-managing-director</guid>
+            <pubDate>Wed, 27 Oct 2021 13:56:10 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cynerio Launches IoT Attack Detection and Response Module for Healthcare IoT Devices]]>
+            
+            </title>
+            <description>
+                <![CDATA[Module helps hospitals identify, contain, and mitigate threats on devices exhibiting malicious or suspicious behavior.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/iot/cynerio-launches-iot-attack-detection-and-response-module-for-healthcare-iot-devices</link>
+            <guid isPermaLink="true">https://www.darkreading.com/iot/cynerio-launches-iot-attack-detection-and-response-module-for-healthcare-iot-devices</guid>
+            <pubDate>Wed, 27 Oct 2021 13:51:56 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Onfido Acquires EYN to Provide Acoustic-Based Liveness Detection]]>
+            
+            </title>
+            <description>
+                <![CDATA[Technology will be incorporated into Onfido’s Real Identity Platform.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/authentication/onfido-acquires-eyn-to-provide-acoustic-based-liveness-detection</link>
+            <guid isPermaLink="true">https://www.darkreading.com/authentication/onfido-acquires-eyn-to-provide-acoustic-based-liveness-detection</guid>
+            <pubDate>Wed, 27 Oct 2021 13:46:26 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Avast Business Introduces Network Discovery for SMBs]]>
+            
+            </title>
+            <description>
+                <![CDATA[Avast's Network Discovery enables network administrators to easily analyze their entire IT network and deploy Avast Business security services.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/perimeter/avast-business-introduces-network-discovery-for-smbs</link>
+            <guid isPermaLink="true">https://www.darkreading.com/perimeter/avast-business-introduces-network-discovery-for-smbs</guid>
+            <pubDate>Wed, 27 Oct 2021 13:40:13 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ThycoticCentrify Integrates Secret Server With Privileged Access Management Platform]]>
+            
+            </title>
+            <description>
+                <![CDATA[Combination avails Secret Server customers to a range of SaaS services.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/endpoint/thycoticcentrify-integrates-secret-server-with-privileged-access-management-platform</link>
+            <guid isPermaLink="true">https://www.darkreading.com/endpoint/thycoticcentrify-integrates-secret-server-with-privileged-access-management-platform</guid>
+            <pubDate>Wed, 27 Oct 2021 13:37:48 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Free Tool Helps Security Teams Measure Their API Attack Surface]]>
+            
+            </title>
+            <description>
+                <![CDATA[Data Theorem's free API Attack Surface Calculator helps security teams understand potential API exposures.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/dr-tech/free-tool-helps-security-teams-measure-their-api-attack-surface</link>
+            <guid isPermaLink="true">https://www.darkreading.com/dr-tech/free-tool-helps-security-teams-measure-their-api-attack-surface</guid>
+            <pubDate>Tue, 26 Oct 2021 22:58:25 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt3e294ecefeba67bb/614b4c55d8068d7efec4d882/calculator-695084_1280.png" type="image/*"/>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[North Korea's Lazarus Group Turns to Supply Chain Attacks]]>
+            
+            </title>
+            <description>
+                <![CDATA[State-backed group is among a growing number of threat actors looking at supply chain companies as an entry point into enterprise networks.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/threat-intelligence/north-korea-s-lazarus-group-turns-to-supply-chain-attacks</link>
+            <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/north-korea-s-lazarus-group-turns-to-supply-chain-attacks</guid>
+            <pubDate>Tue, 26 Oct 2021 22:09:07 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltaae4d1662a3afe84/617877c74c81c60f8e45791d/supplychain2.jpg" type="image/*"/>
+            <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Ready to Play? Squid Game Becomes an Attractive Lure to Spread Cyberthreats]]>
+            
+            </title>
+            <description>
+                <![CDATA[Following demand from viewers, cybercriminals are not shy in taking advantage of fans’ eagerness to watch the show, with well-known fraud schemes hitting the web.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/ready-to-play-squid-game-becomes-an-attractive-lure-to-spread-cyberthreats</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/ready-to-play-squid-game-becomes-an-attractive-lure-to-spread-cyberthreats</guid>
+            <pubDate>Tue, 26 Oct 2021 21:26:16 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[IBM Announces Advances and New Collaborations in AI-Powered Automation, 5G Connectivity and Security at Mobile World Congress Los Angeles]]>
+            
+            </title>
+            <description>
+                <![CDATA[IBM collaborates with Boston Dynamics, Cisco, Palo Alto Networks and Turnium Technology Group to help equip businesses in next phase of digital transformation.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/mobile/ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles</link>
+            <guid isPermaLink="true">https://www.darkreading.com/mobile/ibm-announces-advances-and-new-collaborations-in-ai-powered-automation-5g-connectivity-and-security-at-mobile-world-congress-los-angeles</guid>
+            <pubDate>Tue, 26 Oct 2021 21:16:20 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[CISA Announces Appointment of Washington Secretary of State Kim Wyman as Senior Election Security Lead]]>
+            
+            </title>
+            <description>
+                <![CDATA[As an expert on elections, her appointment speaks to the Agency’s dedication to working with election officials throughout the nation in a non-partisan manner to ensure the security and resilience of our election infrastructure.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/cisa-announces-appointment-of-washington-secretary-of-state-kim-wyman-as-senior-election-security-lead</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/cisa-announces-appointment-of-washington-secretary-of-state-kim-wyman-as-senior-election-security-lead</guid>
+            <pubDate>Tue, 26 Oct 2021 21:13:48 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Gas Stations in Iran Downed by Cyberattack]]>
+            
+            </title>
+            <description>
+                <![CDATA[Unknown attackers hijacked gasoline pump machines and defaced them with a message that reportedly included a phone number for Supreme Leader Ayatollah Ali Khamenei's office.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/gas-stations-in-iran-downed-by-cyberattack-reports</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/gas-stations-in-iran-downed-by-cyberattack-reports</guid>
+            <pubDate>Tue, 26 Oct 2021 20:40:50 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cybersecurity Talent Gap Narrows as Workforce Grows]]>
+            
+            </title>
+            <description>
+                <![CDATA[Job satisfaction and salaries have both increased for cybersecurity professionals, as younger workers seek specific training to prepare for a cybersecurity career.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/careers-and-people/cybersecurity-talent-gap-narrows-as-workforce-grows</link>
+            <guid isPermaLink="true">https://www.darkreading.com/careers-and-people/cybersecurity-talent-gap-narrows-as-workforce-grows</guid>
+            <pubDate>Tue, 26 Oct 2021 19:45:30 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc2418c6e06d15917/61785c6c7ce9a21030aa3f75/isc2-chart.jpg" type="image/*"/>
+            <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[DoJ & Europol Arrest 150 in Disruption of DarkNet Drug Operation]]>
+            
+            </title>
+            <description>
+                <![CDATA[Operation Dark HunTor targeted opioid traffickers on the DarkNet, leading to the seizure of weapons, drugs, and $31 million.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/threat-intelligence/doj-europol-arrest-150-in-disruption-of-darknet-drug-operation</link>
+            <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/doj-europol-arrest-150-in-disruption-of-darknet-drug-operation</guid>
+            <pubDate>Tue, 26 Oct 2021 18:08:32 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Are Baby Boomers More Vulnerable Online Than Younger Generations? You Might Be Surprised]]>
+            
+            </title>
+            <description>
+                <![CDATA[Growing up with computers and the Internet doesn't necessarily convey all the advantages often attributed to younger users.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/are-baby-boomers-more-vulnerable-online-than-younger-generations-you-might-be-surprised</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/are-baby-boomers-more-vulnerable-online-than-younger-generations-you-might-be-surprised</guid>
+            <pubDate>Tue, 26 Oct 2021 17:00:00 +0000</pubDate>
+            <dc:creator>Bryson Medlock, Threat Researcher at ConnectWise&apos;s Cyber Research Unit</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt7bff9b60d1011c85/617316d2d516d66515991c96/Bryson_Medlock2.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Pulling Back the Curtain on Bug Bounties]]>
+            
+            </title>
+            <description>
+                <![CDATA[It's critical that infosec professionals and consumers understand threats and vulnerabilities, but they are being kept in the dark.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/pulling-back-the-curtain-on-bug-bounties</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/pulling-back-the-curtain-on-bug-bounties</guid>
+            <pubDate>Tue, 26 Oct 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt274e6baa0533676a/6171c11fb2d0f04952831b8e/ReachingForMoney-reward-Alamy.jpg" type="image/*"/>
+            <dc:creator>Chris Jacob, VP, Threat Intelligence Engineering at ThreatQuotient</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltad067d0fcc2e9ee8/6169c9273a73be248fb66a52/C_Jacob.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Wardrivers Can Still Easily Crack 70% of Wi-Fi Passwords]]>
+            
+            </title>
+            <description>
+                <![CDATA[Weaknesses in the current Wi-Fi standard and poorly chosen passwords allowed one wardriver to recover 70% of wireless network passwords.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/wardrivers-can-still-crack-70-of-wifi-passwords</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/wardrivers-can-still-crack-70-of-wifi-passwords</guid>
+            <pubDate>Tue, 26 Oct 2021 12:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt754e6d5acb4c2c3a/6177081ab2d0f04952831fef/PMKID-generator.jpg" type="image/*"/>
+            <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[OpenText Strengthens Ransomware Resilience]]>
+            
+            </title>
+            <description>
+                <![CDATA[New detection and alert functions within Carbonite Server increase data protection against ransomware.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/opentext-strengthens-ransomware-resilience</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/opentext-strengthens-ransomware-resilience</guid>
+            <pubDate>Tue, 26 Oct 2021 00:30:05 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Forcepoint Completes Acquisition of Bitglass]]>
+            
+            </title>
+            <description>
+                <![CDATA[The acquisition of Bitglass will be the third technology acquisition for Forcepoint this year.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/cloud/forcepoint-completes-acquisition-of-bitglass</link>
+            <guid isPermaLink="true">https://www.darkreading.com/cloud/forcepoint-completes-acquisition-of-bitglass</guid>
+            <pubDate>Tue, 26 Oct 2021 00:28:05 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Jumio Launches End-to-end Orchestration for its KYX Platform]]>
+            
+            </title>
+            <description>
+                <![CDATA[Platform combines digital identity proofing, compliance verification and anti-money laundering checks.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/operations/jumio-launches-end-to-end-orchestration-for-its-kyx-platform</link>
+            <guid isPermaLink="true">https://www.darkreading.com/operations/jumio-launches-end-to-end-orchestration-for-its-kyx-platform</guid>
+            <pubDate>Tue, 26 Oct 2021 00:26:06 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[SolarWinds Attacker Targets Cloud Service Providers in New Supply Chain Threat]]>
+            
+            </title>
+            <description>
+                <![CDATA[Microsoft says the group has attacked more than 140 service providers and compromised 14 of them between May and October of this year.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/solarwinds-attacker-targets-cloud-service-providers-in-new-supply-chain-threat</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/solarwinds-attacker-targets-cloud-service-providers-in-new-supply-chain-threat</guid>
+            <pubDate>Mon, 25 Oct 2021 21:50:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte88b5f4ca088f27f/617720257b858563c8bc481f/solarwinds.jpg" type="image/*"/>
+            <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Industrial Goods & Services Tops Ransomware Targets in 2021]]>
+            
+            </title>
+            <description>
+                <![CDATA[While the industrial goods and services sector saw a decline in attacks during the third quarter, it remains the most targeted sector for ransomware this year.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/industrial-goods-services-tops-ransomware-targets-in-2021</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/industrial-goods-services-tops-ransomware-targets-in-2021</guid>
+            <pubDate>Mon, 25 Oct 2021 21:20:00 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Who's In Your Wallet? Exploring Mobile Wallet Security]]>
+            
+            </title>
+            <description>
+                <![CDATA[Security flaws in contactless payments for transportation systems could lead to fraud for stolen devices, researchers find.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/mobile/who-s-in-your-wallet-exploring-mobile-wallet-security</link>
+            <guid isPermaLink="true">https://www.darkreading.com/mobile/who-s-in-your-wallet-exploring-mobile-wallet-security</guid>
+            <pubDate>Mon, 25 Oct 2021 20:40:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt32304c3f10363668/617715fea2e4e263c2446012/mobilewallet.jpg" type="image/*"/>
+            <dc:creator>Kelly Sheridan, Senior Editor</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d62bf1a6a54fdcf/60b1e9ed2d381b69fb11e95e/Sheridan-IWK-125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[5 Ways CMMC Security Requirements May Impact Universities]]>
+            
+            </title>
+            <description>
+                <![CDATA[The Cybersecurity Maturity Model Certification puts research universities in a position where they must validate the effectiveness of their security controls before applying for a grant or bidding on a government contract.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/edge-articles/5-ways-cmmc-security-requirements-may-impact-universities</link>
+            <guid isPermaLink="true">https://www.darkreading.com/edge-articles/5-ways-cmmc-security-requirements-may-impact-universities</guid>
+            <pubDate>Mon, 25 Oct 2021 20:11:11 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt915b6cfeaa3cdb29/60e398dda8f0f8492eb51412/education-Murrstock-AdobeStock_416743421CP.jpeg" type="image/*"/>
+            <dc:creator>Helen Patton, Advisory CISO, Cisco Secure</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt5ac2b608ead2c2c0/617716c8a2e4e263c2446018/helen-patton.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[How We Can Narrow the Talent Shortage in Cybersecurity]]>
+            
+            </title>
+            <description>
+                <![CDATA[Filling crucial roles in cybersecurity and addressing the talent shortage requires rethinking who qualifies as a "cybersecurity professional" and rewriting traditional job descriptions.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/careers-and-people/how-we-can-narrow-the-talent-shortage-in-cybersecurity</link>
+            <guid isPermaLink="true">https://www.darkreading.com/careers-and-people/how-we-can-narrow-the-talent-shortage-in-cybersecurity</guid>
+            <pubDate>Mon, 25 Oct 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt37c4545cfe2f274a/61707b7f8e52444950791b2d/HelpWantedAlamy.jpg" type="image/*"/>
+            <dc:creator>Nasrin Rezai, Chief Information Security Officer for Verizon</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4232f3d0c11224b5/6165a6fc64aa95798c4be2ec/Nasrin.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Ransomware Rise Pushes Organizations to Prepare for Attack]]>
+            
+            </title>
+            <description>
+                <![CDATA[Ransomware attacks continue to grow in number and severity, data shows, but organizations are stepping up to prepare for the threat.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/ransomware-rise-pushes-organizations-to-prepare-for-attack</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/ransomware-rise-pushes-organizations-to-prepare-for-attack</guid>
+            <pubDate>Sat, 23 Oct 2021 13:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt732a3542835eaca3/6171f18beb071a650e01dea6/ransomware.jpg" type="image/*"/>
+            <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[aDolus Raises $2.5M to Secure Critical Infrastructure and Grow Sales and Marketing Team]]>
+            
+            </title>
+            <description>
+                <![CDATA[Software supply chain security experts to drive aggressive go-to-market strategy]]>
+            
+            </description>
+            <link>https://www.darkreading.com/vulnerabilities-threats/adolus-raises-2-5-million-to-secure-critical-infrastructure-and-grow-sales-and-marketing-team</link>
+            <guid isPermaLink="true">https://www.darkreading.com/vulnerabilities-threats/adolus-raises-2-5-million-to-secure-critical-infrastructure-and-grow-sales-and-marketing-team</guid>
+            <pubDate>Fri, 22 Oct 2021 20:32:55 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA['TodayZoo' Phishing Kit Cobbled Together From Other Malware]]>
+            
+            </title>
+            <description>
+                <![CDATA[Microsoft's analysis of a recent phishing attack shows how cybercriminals are mixing and matching to efficiently develop their attack frameworks.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/threat-intelligence/phishing-kit-todayzoo-cobbled-together-from-other-malware</link>
+            <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/phishing-kit-todayzoo-cobbled-together-from-other-malware</guid>
+            <pubDate>Fri, 22 Oct 2021 18:22:54 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4b5727ec6caa37c0/6173020aeb071a650e01e02d/Fig10-related-phish-kits-TodayZoo.png" type="image/*"/>
+            <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[7 Ways to Lock Down Enterprise Printers                   ]]>
+            
+            </title>
+            <description>
+                <![CDATA[Following the PrintNightmare case, printer security has become a hot issue for security teams. Here are seven ways to keep printers secure on enterprise networks.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/edge-slideshows/7-ways-to-lock-down-enterprise-printers-</link>
+            <guid isPermaLink="true">https://www.darkreading.com/edge-slideshows/7-ways-to-lock-down-enterprise-printers-</guid>
+            <pubDate>Fri, 22 Oct 2021 16:39:54 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt622cc38e65ace92e/6171f74293fd3a259d805475/ZurierPrinterSSSlide_1_CoverArt.jpeg" type="image/*"/>
+            <dc:creator>Steve Zurier, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb160afebfecfaa41/60b1e9ac52bd6156414f3432/SteveZCloseUp.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[What Does Better Insider Risk Management Look Like?]]>
+            
+            </title>
+            <description>
+                <![CDATA[Conventional data security tools do not address insider risk — a growing problem in today's remote-hybrid world. We need a better way to manage insider risk.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/risk/what-does-better-insider-risk-management-look-like-</link>
+            <guid isPermaLink="true">https://www.darkreading.com/risk/what-does-better-insider-risk-management-look-like-</guid>
+            <pubDate>Fri, 22 Oct 2021 16:33:51 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[What Squid Game Teaches Us About Cybersecurity]]>
+            
+            </title>
+            <description>
+                <![CDATA[When life inside the security operations center feels treacherous, here are some suggestions for getting out alive.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/what-squid-game-teaches-us-about-cybersecurity</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/what-squid-game-teaches-us-about-cybersecurity</guid>
+            <pubDate>Fri, 22 Oct 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8a9e4bc7440c54df/616edc10d516d66515991633/SquidGame.jpg" type="image/*"/>
+            <dc:creator>Orion Cassetto, Senior Director of Product Marketing at Cycode</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltcef8463795c048d4/61687972d9af1b2665989ea7/Orion_C.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Google Buckles Down on Android Enterprise Security]]>
+            
+            </title>
+            <description>
+                <![CDATA[The launch of Android 12 brings several new default security features, along with new security efforts for Android Enterprise.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/mobile/google-buckles-down-on-android-enterprise-security</link>
+            <guid isPermaLink="true">https://www.darkreading.com/mobile/google-buckles-down-on-android-enterprise-security</guid>
+            <pubDate>Thu, 21 Oct 2021 21:42:20 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta82a3ce6cf22aae6/6171d4eaa2e4e263c2445bc8/googlework1.png" type="image/*"/>
+            <dc:creator>Kelly Sheridan, Senior Editor</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d62bf1a6a54fdcf/60b1e9ed2d381b69fb11e95e/Sheridan-IWK-125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Malware Abuses Core Features of Discord]]>
+            
+            </title>
+            <description>
+                <![CDATA[Researchers warn that Discord's bot framework can be easily weaponized.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/threat-intelligence/malware-abuses-core-features-of-discord</link>
+            <guid isPermaLink="true">https://www.darkreading.com/threat-intelligence/malware-abuses-core-features-of-discord</guid>
+            <pubDate>Thu, 21 Oct 2021 21:12:46 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cybrary Launches New Partnership with Check Point Software to Make Cybersecurity Training Accessible to All]]>
+            
+            </title>
+            <description>
+                <![CDATA[Online cybersecurity professional development platform bolsters the Check Point Education Initiative.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/careers-and-people/cybrary-launches-new-partnership-with-check-point-software-to-make-cybersecurity-training-accessible-to-all</link>
+            <guid isPermaLink="true">https://www.darkreading.com/careers-and-people/cybrary-launches-new-partnership-with-check-point-software-to-make-cybersecurity-training-accessible-to-all</guid>
+            <pubDate>Thu, 21 Oct 2021 20:55:02 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Security Teams Still Favor Prevention Over Detection]]>
+            
+            </title>
+            <description>
+                <![CDATA[Security leaders are adopting a multilayered approach to address new security threats and risks.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/tech-trends/security-teams-still-favor-prevention-over-detection</link>
+            <guid isPermaLink="true">https://www.darkreading.com/tech-trends/security-teams-still-favor-prevention-over-detection</guid>
+            <pubDate>Thu, 21 Oct 2021 20:49:55 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blteef3056880275c29/6171d28aa2e4e263c2445bc4/ttrends-oct21.jpg" type="image/*"/>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Akamai Technologies Completes Acquisition of Guardicore to Extend Its Zero Trust Solutions to Help Stop Ransomware]]>
+            
+            </title>
+            <description>
+                <![CDATA[Guardicore's  micro-segmentation products will be added to Akamai's portfolio of Zero Trust solutions.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/akamai-technologies-completes-acquisition-of-guardicore-to-extend-its-zero-trust-solutions-to-help-stop-ransomware</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/akamai-technologies-completes-acquisition-of-guardicore-to-extend-its-zero-trust-solutions-to-help-stop-ransomware</guid>
+            <pubDate>Thu, 21 Oct 2021 20:41:33 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Plurilock to Acquire Assets of CloudCodes Software]]>
+            
+            </title>
+            <description>
+                <![CDATA[Transaction marks Plurilock’s second acquisition in 2021.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/cloud/plurilock-to-acquire-assets-of-cloudcodes-software</link>
+            <guid isPermaLink="true">https://www.darkreading.com/cloud/plurilock-to-acquire-assets-of-cloudcodes-software</guid>
+            <pubDate>Thu, 21 Oct 2021 20:14:51 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Invicti Security Announces $625 Million Growth Investment Led by Summit Partners]]>
+            
+            </title>
+            <description>
+                <![CDATA[Web application security provider plans to leverage new investment to continue product expansion and support global growth.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/application-security/invicti-security-announces-625-million-growth-investment-led-by-summit-partners</link>
+            <guid isPermaLink="true">https://www.darkreading.com/application-security/invicti-security-announces-625-million-growth-investment-led-by-summit-partners</guid>
+            <pubDate>Thu, 21 Oct 2021 20:11:22 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Nearly Three-Quarters of Organizations Victimized by DNS Attacks in Past 12 Months]]>
+            
+            </title>
+            <description>
+                <![CDATA[Response and recovery have significant impact on 58% of targeted businesses.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/nearly-three-quarters-of-organizations-victimized-by-dns-attacks-in-past-12-months</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/nearly-three-quarters-of-organizations-victimized-by-dns-attacks-in-past-12-months</guid>
+            <pubDate>Thu, 21 Oct 2021 20:08:31 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cohesity Announces Disaster Recovery as a Service, Providing Automated Disaster Recovery]]>
+            
+            </title>
+            <description>
+                <![CDATA[New offering can help businesses quickly recover from ransomware attacks, speed data recovery, and advance business continuity.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/cohesity-announces-disaster-recover-as-a-service</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/cohesity-announces-disaster-recover-as-a-service</guid>
+            <pubDate>Thu, 21 Oct 2021 20:06:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Why Should My Organization Consider XDR?]]>
+            
+            </title>
+            <description>
+                <![CDATA[XDR is a newish industry term addressing a very old problem: security products that don't work together to detect threats.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/edge-ask-the-experts/why-should-my-organization-consider-xdr-</link>
+            <guid isPermaLink="true">https://www.darkreading.com/edge-ask-the-experts/why-should-my-organization-consider-xdr-</guid>
+            <pubDate>Thu, 21 Oct 2021 19:53:23 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6dee172d3e421a65/6171bea2d516d66515991b0c/puzzle-pieces-biancablah-unsplash.jpg" type="image/*"/>
+            <dc:creator>Al Huger, Vice President and General Manager of Cisco Security Platform &amp; Response</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt6fef550905f53a23/6171baaa8e52444950791d3b/AlHuger_Headshot.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Microsoft Launches Security Program for Nonprofits]]>
+            
+            </title>
+            <description>
+                <![CDATA[A new set of security tools is built to assess risk, provide monitoring and notification if an attack occurs, and train IT pros and users.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/endpoint/microsoft-launches-security-program-for-nonprofits</link>
+            <guid isPermaLink="true">https://www.darkreading.com/endpoint/microsoft-launches-security-program-for-nonprofits</guid>
+            <pubDate>Thu, 21 Oct 2021 17:45:00 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Macs Still Targeted Mostly With Adware, Less With Malware]]>
+            
+            </title>
+            <description>
+                <![CDATA[The top 10 categories of digital threats on macOS are all adware programs, with only a sliver of the share of victims affected by actual malware, according to an IT management firm.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/application-security/macs-still-targeted-with-adware-with-malware-rarely-seen</link>
+            <guid isPermaLink="true">https://www.darkreading.com/application-security/macs-still-targeted-with-adware-with-malware-rarely-seen</guid>
+            <pubDate>Thu, 21 Oct 2021 15:34:53 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt15f10dcecb4d3e63/61718f5b8e52444950791d29/AppleMac.jpg" type="image/*"/>
+            <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[How Psychology Can Save Your Cybersecurity Awareness Training Program]]>
+            
+            </title>
+            <description>
+                <![CDATA[Understanding human psychology, how it works, and how to introduce its concepts into cybersecurity awareness training can make a huge difference to your organization.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/careers-and-people/how-psychology-can-save-your-cybersecurity-awareness-training-program</link>
+            <guid isPermaLink="true">https://www.darkreading.com/careers-and-people/how-psychology-can-save-your-cybersecurity-awareness-training-program</guid>
+            <pubDate>Thu, 21 Oct 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4a56706ca5517a7f/6171829fc8a5784a94380baa/HeadWithCogs.jpg" type="image/*"/>
+            <dc:creator>Javvad Malik, Security Awareness Advocate for EMEA at KnowBe4</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte7d5f04337ddd8f5/61608c995cf2461e09740508/Javvad_Malik_-_KnowBe4_high-res.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Proposed HTTPA Protocol Uses TEEs to Secure the Web]]>
+            
+            </title>
+            <description>
+                <![CDATA[Intel researchers describe how Trusted Execution Environments can enhance HTTPS and boost Web security.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/emerging-tech/proposed-httpa-protocol-uses-tees-to-secure-web</link>
+            <guid isPermaLink="true">https://www.darkreading.com/emerging-tech/proposed-httpa-protocol-uses-tees-to-secure-web</guid>
+            <pubDate>Wed, 20 Oct 2021 21:56:12 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blteee8237fcde00cbb/612f445754e6e12f74a98727/06-securecloud.jpeg" type="image/*"/>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Optiv Announces Second Annual $40,000 Scholarship for Black, African American Identifying STEM Students]]>
+            
+            </title>
+            <description>
+                <![CDATA[$10,000 to be awarded annually for four years each by Optiv’s Black Employee Network.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/careers-and-people/optiv-announces-second-annual-40-000-scholarship-for-black-african-american-identifying-stem-students</link>
+            <guid isPermaLink="true">https://www.darkreading.com/careers-and-people/optiv-announces-second-annual-40-000-scholarship-for-black-african-american-identifying-stem-students</guid>
+            <pubDate>Wed, 20 Oct 2021 21:43:32 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Microsoft-Signed Rootkit Targets Gaming Environments in China]]>
+            
+            </title>
+            <description>
+                <![CDATA[FiveSys is the second publicly known rootkit since June that attackers have managed to sneak past Microsoft's driver certification process.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/microsoft-signed-rootkit-targets-gaming-environments-in-china</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/microsoft-signed-rootkit-targets-gaming-environments-in-china</guid>
+            <pubDate>Wed, 20 Oct 2021 21:26:48 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt9df63b5e31e7f096/61707d85eb071a650e01dcbb/rootkit.jpg" type="image/*"/>
+            <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Microsoft, Intel, and Goldman Sachs to Lead New TCG Work Group to Tackle Supply Chain Security Challenges]]>
+            
+            </title>
+            <description>
+                <![CDATA[Led by representatives from the three companies, the work group will create guidance that defines, implements, and upholds security standards for the entire supply chain.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/microsoft-intel-and-goldman-sachs-to-lead-new-tcg-work-group-to-tackle-supply-chain-security-challenges</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/microsoft-intel-and-goldman-sachs-to-lead-new-tcg-work-group-to-tackle-supply-chain-security-challenges</guid>
+            <pubDate>Wed, 20 Oct 2021 21:17:04 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[MITRE Engenuity Announces ATT&CK® Evaluations Call for Participation for Managed Services]]>
+            
+            </title>
+            <description>
+                <![CDATA[Offering to provide transparency into the capabilities of managed security service providers and and managed detection and response competencies.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/mitre-engenuity-announces-att-ck-evaluations-call-for-participation-for-managed-services</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/mitre-engenuity-announces-att-ck-evaluations-call-for-participation-for-managed-services</guid>
+            <pubDate>Wed, 20 Oct 2021 21:16:44 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[CISA Awards $2 Million to Bring Cybersecurity Training to Rural Communities and Diverse Populations]]>
+            
+            </title>
+            <description>
+                <![CDATA[Award recipients NPower and CyberWarrior recognized for development of cyber workforce training programs.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/careers-and-people/cisa-awards-2-million-to-bring-cybersecurity-training-to-rural-communities-and-diverse-populations</link>
+            <guid isPermaLink="true">https://www.darkreading.com/careers-and-people/cisa-awards-2-million-to-bring-cybersecurity-training-to-rural-communities-and-diverse-populations</guid>
+            <pubDate>Wed, 20 Oct 2021 21:11:33 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Execs From Now-Defunct GigaTrust Arrested in $50M Fraud Scheme]]>
+            
+            </title>
+            <description>
+                <![CDATA[Email endpoint security-as-a-service company founder and two others indicted in an elaborate financial fraud scheme.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/cloud/execs-from-now-defunct-gigatrust-arrested-in-50m-fraud-scheme</link>
+            <guid isPermaLink="true">https://www.darkreading.com/cloud/execs-from-now-defunct-gigatrust-arrested-in-50m-fraud-scheme</guid>
+            <pubDate>Wed, 20 Oct 2021 21:06:18 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Google: Phishing Campaign Targets YouTube Creators]]>
+            
+            </title>
+            <description>
+                <![CDATA[The attackers behind the campaign, which distributes cookie theft malware, are attributed to actors recruited in a Russian-speaking forum.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/google-phishing-campaign-targets-youtube-creators</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/google-phishing-campaign-targets-youtube-creators</guid>
+            <pubDate>Wed, 20 Oct 2021 20:40:00 +0000</pubDate>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Removing Friction for the Enterprise With Trusted Access]]>
+            
+            </title>
+            <description>
+                <![CDATA[Our work lives are supposed to be simpler and easier because of technology. At least that’s the promise.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/edge-articles/removing-friction-for-the-enterprise-with-trusted-access</link>
+            <guid isPermaLink="true">https://www.darkreading.com/edge-articles/removing-friction-for-the-enterprise-with-trusted-access</guid>
+            <pubDate>Wed, 20 Oct 2021 19:57:30 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb3135c684eac7bb1/6170605ea2e4e263c24459c8/phone-authentication-trust-2D5MGWE.jpg" type="image/*"/>
+            <dc:creator>Ash Devata, General Manager, Cisco Zero Trust and Duo Security</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf5dd7a87fc3227b1/6177f6289d64530fa03720ba/Ash_Headshot.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Passwordless Is the Future … but What About the Present?]]>
+            
+            </title>
+            <description>
+                <![CDATA[Password managers, single sign-on, and multifactor authentication each offers its own methodology and unique set of benefits — and drawbacks — to users.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/endpoint/passwordless-is-the-future-but-what-about-the-present-</link>
+            <guid isPermaLink="true">https://www.darkreading.com/endpoint/passwordless-is-the-future-but-what-about-the-present-</guid>
+            <pubDate>Wed, 20 Oct 2021 17:00:00 +0000</pubDate>
+            <dc:creator>Idan Fast, Co-Founder and CTO at Grip Security</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta9ba10017e88c9de/6161f727f0756e7ad17a2804/2_IDAN_FAST.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[The Ransomware Payment Dilemma: Should Victims Pay or Not?]]>
+            
+            </title>
+            <description>
+                <![CDATA[It's time to steer the conversation away from whether payment bans should be implemented to how and when they should take effect.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/the-ransomware-payment-dilemma-should-victims-pay-or-not-</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/the-ransomware-payment-dilemma-should-victims-pay-or-not-</guid>
+            <pubDate>Wed, 20 Oct 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltec1b846187d4a2c3/60d94b6276a3de39ad0f7c76/RansomwarePayment.jpeg" type="image/*"/>
+            <dc:creator>Anthony Grenga, VP, Cyber Operations, IronNet Cybersecurity</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt534088a299571d7b/616db3748879e72493a619cd/Anthony_Grenga.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[JavaScript Packing Found in More Than 25% of Malicious Sites]]>
+            
+            </title>
+            <description>
+                <![CDATA[Obfuscation techniques are extremely prevalent, data shows, but they can't be used as a single indicator of compromise because legitimate websites use them.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/application-security/javascript-packing-found-in-more-than-25-of-malicious-sites</link>
+            <guid isPermaLink="true">https://www.darkreading.com/application-security/javascript-packing-found-in-more-than-25-of-malicious-sites</guid>
+            <pubDate>Wed, 20 Oct 2021 14:00:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt4320ac54b985c31c/616f7909828f9b26e6ebc0e3/AdobeStock_268013450.jpeg" type="image/*"/>
+            <dc:creator>Ericka Chickowski, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa01ab14787f501/60b1e9a77f791568be5e0dbb/ErickaChick_125x125.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Deepfake Audio Scores $35M in Corporate Heist]]>
+            
+            </title>
+            <description>
+                <![CDATA[A combination of business email compromise and deepfake audio led a branch manager to transfer millions to scammers, in a case that serves as a warning to organizations.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/deepfake-audio-scores-35-million-in-corporate-heist</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/deepfake-audio-scores-35-million-in-corporate-heist</guid>
+            <pubDate>Wed, 20 Oct 2021 13:46:57 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt987b6153bdc95806/60e2dcfe118f582e1269bc95/DeepFakes-freshidea-adobe-cp.jpg" type="image/*"/>
+            <dc:creator>Robert Lemos, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt58481326324d6911/60b1e9a55d34de550780a990/Robert-Lemos.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Penetration Testing in the Cloud Demands a Different Approach]]>
+            
+            </title>
+            <description>
+                <![CDATA[Attackers use a different set of techniques to target the cloud, meaning defenders must think differently when pen testing cloud environments.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/cloud/pentesting-in-the-cloud-demands-a-different-approach</link>
+            <guid isPermaLink="true">https://www.darkreading.com/cloud/pentesting-in-the-cloud-demands-a-different-approach</guid>
+            <pubDate>Tue, 19 Oct 2021 22:05:00 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte8d24de90e384eb2/616f4025eb071a650e01da4f/isc2cloud.jpg" type="image/*"/>
+            <dc:creator>Kelly Sheridan, Senior Editor</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1d62bf1a6a54fdcf/60b1e9ed2d381b69fb11e95e/Sheridan-IWK-125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Telecommunications Providers Worldwide Are Targeted in Sophisticated Cyber-Espionage Campaign]]>
+            
+            </title>
+            <description>
+                <![CDATA[LightBasin has displayed in-depth knowledge of telecom architectures and protocols in its attacks, security vendor warns.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/sophisticated-threat-group-targeting-telecoms-worldwide-in-spying-campaign</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/sophisticated-threat-group-targeting-telecoms-worldwide-in-spying-campaign</guid>
+            <pubDate>Tue, 19 Oct 2021 21:50:29 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blta0e6cc046acd6edd/616f39608e524449507918c6/spying.jpg" type="image/*"/>
+            <dc:creator>Jai Vijayan, Contributing Writer</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt02d79fb9a44a4258/60b1e9dd2a25046b35110696/Jai-Vijayan.jpeg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Cato Networks Valued at $2.5B, Raises Additional $200M to Accelerate SASE Adoption Among Large Enterprises]]>
+            
+            </title>
+            <description>
+                <![CDATA[Cato more than doubles its valuation in one year with largest funding round to date. Total financing reaches $532 million.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/perimeter/cato-networks-valued-at-2-5b-raises-additional-200m-to-accelerate-sase-adoption-among-large-enterprises</link>
+            <guid isPermaLink="true">https://www.darkreading.com/perimeter/cato-networks-valued-at-2-5b-raises-additional-200m-to-accelerate-sase-adoption-among-large-enterprises</guid>
+            <pubDate>Tue, 19 Oct 2021 21:46:46 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Enterprise Cybersecurity Strategies Are Getting More Attention]]>
+            
+            </title>
+            <description>
+                <![CDATA[Data in Dark Reading's "2021 Strategic Security Survey" report suggest organizations are taking the security challenge seriously.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/edge-threat-monitor/enterprise-cybersecurity-strategies-are-getting-more-attention</link>
+            <guid isPermaLink="true">https://www.darkreading.com/edge-threat-monitor/enterprise-cybersecurity-strategies-are-getting-more-attention</guid>
+            <pubDate>Tue, 19 Oct 2021 21:22:42 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8f0e740e83d95eb0/616f373f8e524449507918c2/threatmonitor-oct19.jpg" type="image/*"/>
+            <dc:creator>Edge Editors, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbeb30fde8ec73a32/60d4432c2446e93b5b5a0e0c/Edge-Editors.png" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Query.ai Closes $15M Series A for Security Investigations Tool]]>
+            
+            </title>
+            <description>
+                <![CDATA[The funding will support product development for Query.AI's browser-based security investigations tool.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/dr-tech/query-ai-closes-15m-series-a-for-security-investigations-tool</link>
+            <guid isPermaLink="true">https://www.darkreading.com/dr-tech/query-ai-closes-15m-series-a-for-security-investigations-tool</guid>
+            <pubDate>Tue, 19 Oct 2021 21:07:41 +0000</pubDate>
+            <media:content url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte94e29db2df4cb8c/612f475188a9a63b61112b9d/02-Investigations.jpg" type="image/*"/>
+            <dc:creator>Dark Reading Staff, Dark Reading</dc:creator>
+            <enclosure url="https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte161b23f0fd3a84b/60b1ea374e7eb868c4c6a293/dr_staff_125x125.jpg" type="image/*"/>
+        </item>
+        <item>
+            <title>
+                <![CDATA[Keysight Technologies Acquires SCALABLE Network Technologies]]>
+            
+            </title>
+            <description>
+                <![CDATA[Simulation and modeling solutions augment Keysight's 5G and cybersecurity portfolio.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/perimeter/keysight-technologies-acquires-scalable-network-technologies</link>
+            <guid isPermaLink="true">https://www.darkreading.com/perimeter/keysight-technologies-acquires-scalable-network-technologies</guid>
+            <pubDate>Tue, 19 Oct 2021 19:12:47 +0000</pubDate>
+        </item>
+        <item>
+            <title>
+                <![CDATA[2021 State of Ransomware Report Reveals 83% of Victims Paid to Get Data Restored]]>
+            
+            </title>
+            <description>
+                <![CDATA[Research by ThycoticCentrify shows a majority of organizations experienced a ransomware attack, while 93% are allocating special budget to fight growing threats.]]>
+            
+            </description>
+            <link>https://www.darkreading.com/attacks-breaches/2021-state-of-ransomware-report-reveals-83-of-victims-paid-to-get-data-restored</link>
+            <guid isPermaLink="true">https://www.darkreading.com/attacks-breaches/2021-state-of-ransomware-report-reveals-83-of-victims-paid-to-get-data-restored</guid>
+            <pubDate>Tue, 19 Oct 2021 19:09:09 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
