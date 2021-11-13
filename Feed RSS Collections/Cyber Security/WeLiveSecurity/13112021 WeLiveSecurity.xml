@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+    <channel>
+        <title>WeLiveSecurity</title>
+        <link>https://www.welivesecurity.com</link>
+        <description>News, views, and insight from the ESET security community</description>
+        <lastBuildDate>Sat, 13 Nov 2021 01:58:36 +0000</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/eset/blog" />
+        <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="eset/blog" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+        <feedburner:emailServiceId xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">eset/blog</feedburner:emailServiceId>
+        <feedburner:feedburnerHostname xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">https://feedburner.google.com</feedburner:feedburnerHostname>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-150/</link>
+            <pubDate>Fri, 12 Nov 2021 15:00:23 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=156649</guid>
+            <description>
+                <![CDATA[<p>Steps to take right after a data breach – What to consider before going passwordless – 7 million people hit by Robinhood data breach</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-150/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/0-10.jpg</image>
+        </item>
+        <item>
+            <title>When the alarms go off: 10 key steps to take after a data breach</title>
+            <link>https://www.welivesecurity.com/2021/11/11/alarms-go-off-10-steps-take-data-breach/</link>
+            <comments>https://www.welivesecurity.com/2021/11/11/alarms-go-off-10-steps-take-data-breach/#respond</comments>
+            <pubDate>Thu, 11 Nov 2021 10:45:24 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Phil Muncaster]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybersecurity]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156564</guid>
+            <description>
+                <![CDATA[<p>It’s often said that data breaches are no longer a matter of ‘if’, but ‘when’ – here’s what your organization should do, and avoid doing, in the case of a breach</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/11/11/alarms-go-off-10-steps-take-data-breach/">When the alarms go off: 10&nbsp;key steps to take after a&nbsp;data breach</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/11/11/alarms-go-off-10-steps-take-data-breach/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/data-breaches-steps-take.jpg</image>
+        </item>
+        <item>
+            <title>Google scores big win as court blocks iPhone tracking lawsuit</title>
+            <link>https://www.welivesecurity.com/2021/11/10/google-scores-big-win-court-iphone-tracking-lawsuit/</link>
+            <comments>https://www.welivesecurity.com/2021/11/10/google-scores-big-win-court-iphone-tracking-lawsuit/#respond</comments>
+            <pubDate>Wed, 10 Nov 2021 17:24:39 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Privacy]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156574</guid>
+            <description>
+                <![CDATA[<p>The tech giant wins an appeal against a claim that it unlawfully collected personal data of millions of iPhone users</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/11/10/google-scores-big-win-court-iphone-tracking-lawsuit/">Google scores big win as court blocks iPhone tracking lawsuit</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/11/10/google-scores-big-win-court-iphone-tracking-lawsuit/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/google-court-lawsuit-lloyd-iphone-personal-data.jpg</image>
+        </item>
+        <item>
+            <title>Robinhood data breach affects 7 million people</title>
+            <link>https://www.welivesecurity.com/2021/11/09/robinhood-data-breach-affects-7-million-people/</link>
+            <comments>https://www.welivesecurity.com/2021/11/09/robinhood-data-breach-affects-7-million-people/#respond</comments>
+            <pubDate>Tue, 09 Nov 2021 19:02:14 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybercrime]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156551</guid>
+            <description>
+                <![CDATA[<p>An attacker gained access to some of Robinhood's customer support systems and stole the personal data of a third of the app's userbase</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/11/09/robinhood-data-breach-affects-7-million-people/">Robinhood data breach affects 7 million people</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/11/09/robinhood-data-breach-affects-7-million-people/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/robinhood-data-breach-personal-information-theft-1.jpg</image>
+        </item>
+        <item>
+            <title>Passwordless authentication: Is your company ready to move beyond passwords?</title>
+            <link>https://www.welivesecurity.com/2021/11/08/passwordless-authentication-is-your-company-ready-move-passwords/</link>
+            <comments>https://www.welivesecurity.com/2021/11/08/passwordless-authentication-is-your-company-ready-move-passwords/#respond</comments>
+            <pubDate>Mon, 08 Nov 2021 10:30:13 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Phil Muncaster]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Password]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156391</guid>
+            <description>
+                <![CDATA[<p>Are the days numbered for ‘123456’? As Microsoft further nudges the world away from passwords, here’s what your organization should consider before going password-free.</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/11/08/passwordless-authentication-is-your-company-ready-move-passwords/">Passwordless&nbsp;authentication: Is your company ready to move beyond passwords?</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/11/08/passwordless-authentication-is-your-company-ready-move-passwords/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/passwordless-authentication-businesses-pros-cons-1.jpg</image>
+        </item>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-149/</link>
+            <comments>https://www.welivesecurity.com/videos/week-security-tony-anscombe-149/#respond</comments>
+            <pubDate>Fri, 05 Nov 2021 14:00:12 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=156465</guid>
+            <description>
+                <![CDATA[<p>What's it like working as a malware researcher? – ProtonMail and the battle for email privacy – Man charged with hacking, trying to extort US sports leagues</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-149/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/videos/week-security-tony-anscombe-149/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/0-4.jpg</image>
+        </item>
+        <item>
+            <title>Google squashes Android zero‑day bug exploited in targeted attacks</title>
+            <link>https://www.welivesecurity.com/2021/11/04/google-squashes-android-zero-day-bug-exploited-targeted-attacks/</link>
+            <comments>https://www.welivesecurity.com/2021/11/04/google-squashes-android-zero-day-bug-exploited-targeted-attacks/#respond</comments>
+            <pubDate>Thu, 04 Nov 2021 16:22:55 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Android]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156436</guid>
+            <description>
+                <![CDATA[<p>Beyond the vulnerability in the Android kernel, the monthly round of security patches plugs another 38 security loopholes</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/11/04/google-squashes-android-zero-day-bug-exploited-targeted-attacks/">Google squashes Android zero&#8209;day bug exploited in targeted attacks</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/11/04/google-squashes-android-zero-day-bug-exploited-targeted-attacks/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/google-android-kernel-zeroday-patch.jpg</image>
+        </item>
+        <item>
+            <title>Win one for privacy – Swiss providers don’t have to talk</title>
+            <link>https://www.welivesecurity.com/2021/11/03/win-one-privacy-swiss-providers-dont-have-talk/</link>
+            <comments>https://www.welivesecurity.com/2021/11/03/win-one-privacy-swiss-providers-dont-have-talk/#respond</comments>
+            <pubDate>Wed, 03 Nov 2021 14:00:59 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Cameron Camp]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Privacy]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156334</guid>
+            <description>
+                <![CDATA[<p>Security and privacy get a leg up in Proton’s legal challenge against data retention and disclosure obligations</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/11/03/win-one-privacy-swiss-providers-dont-have-talk/">Win one for privacy – Swiss providers don’t have to talk</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/11/03/win-one-privacy-swiss-providers-dont-have-talk/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/proton-privacy-email-secure-data-retention-regulations.jpg</image>
+        </item>
+        <item>
+            <title>What’s it like to work as a malware researcher? 10 questions answered</title>
+            <link>https://www.welivesecurity.com/2021/11/03/whats-it-like-work-malware-researcher-10-questions-answered/</link>
+            <comments>https://www.welivesecurity.com/2021/11/03/whats-it-like-work-malware-researcher-10-questions-answered/#respond</comments>
+            <pubDate>Wed, 03 Nov 2021 10:30:54 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Antimalware Day]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156329</guid>
+            <description>
+                <![CDATA[<p>Three ESET malware researchers describe what their job involves and what it takes to embark on a successful career in this field</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/11/03/whats-it-like-work-malware-researcher-10-questions-answered/">What&#8217;s it like to work as a malware researcher? 10&nbsp;questions answered</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/11/03/whats-it-like-work-malware-researcher-10-questions-answered/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/eset-antimalware-day-cybersecurity-pros-malware-researcher-1.png</image>
+        </item>
+        <item>
+            <title>Man charged with hacking major US sports leagues to illegally stream games</title>
+            <link>https://www.welivesecurity.com/2021/11/02/man-charged-hacking-us-sports-league-illegally-stream-games/</link>
+            <comments>https://www.welivesecurity.com/2021/11/02/man-charged-hacking-us-sports-league-illegally-stream-games/#respond</comments>
+            <pubDate>Tue, 02 Nov 2021 16:01:51 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybercrime]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156344</guid>
+            <description>
+                <![CDATA[<p>On top of illegally streaming sports games for profit, the man is also believed to have attempted to extort MLB for $150,000</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/11/02/man-charged-hacking-us-sports-league-illegally-stream-games/">Man charged with hacking major US sports leagues to illegally stream games</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/11/02/man-charged-hacking-us-sports-league-illegally-stream-games/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/11/mlb-hacking-streaming-games.jpg</image>
+        </item>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-148/</link>
+            <comments>https://www.welivesecurity.com/videos/week-security-tony-anscombe-148/#respond</comments>
+            <pubDate>Fri, 29 Oct 2021 14:00:19 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=156251</guid>
+            <description>
+                <![CDATA[<p>ESET discovers Wslink – Why secure-by-design is a must – Staying cybersecure this Halloween and beyond – Operation Dark HunTOR</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-148/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/videos/week-security-tony-anscombe-148/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/0-24.jpg</image>
+        </item>
+        <item>
+            <title>5 tips for parents for a cybersecure Halloween</title>
+            <link>https://www.welivesecurity.com/2021/10/28/5-tips-parents-cybersecure-halloween/</link>
+            <comments>https://www.welivesecurity.com/2021/10/28/5-tips-parents-cybersecure-halloween/#respond</comments>
+            <pubDate>Thu, 28 Oct 2021 09:30:54 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Kids Online]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156034</guid>
+            <description>
+                <![CDATA[<p>What are some of the key dangers faced by children online and how can you help protect them from the ghosts, ghouls and goblins creeping on the internet? </p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/28/5-tips-parents-cybersecure-halloween/">5 tips for parents for a cybersecure Halloween</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/28/5-tips-parents-cybersecure-halloween/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/parents-children-cybersecure-Halloween.jpg</image>
+        </item>
+        <item>
+            <title>Dark HunTOR: 150 arrested, $31 million seized in major dark web bust</title>
+            <link>https://www.welivesecurity.com/2021/10/27/dark-huntor-150-arrested-31-million-seized-major-dark-web-bust/</link>
+            <comments>https://www.welivesecurity.com/2021/10/27/dark-huntor-150-arrested-31-million-seized-major-dark-web-bust/#respond</comments>
+            <pubDate>Wed, 27 Oct 2021 14:44:49 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybercrime]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156184</guid>
+            <description>
+                <![CDATA[<p>The police sting spanned three continents and involved crackdowns in nine countries </p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/27/dark-huntor-150-arrested-31-million-seized-major-dark-web-bust/">Dark HunTOR: 150 arrested, $31 million seized in major dark web bust</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/27/dark-huntor-150-arrested-31-million-seized-major-dark-web-bust/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/darkhuntor-dark-web-bust.jpg</image>
+        </item>
+        <item>
+            <title>Wslink: Unique and undocumented malicious loader that runs as a server</title>
+            <link>https://www.welivesecurity.com/2021/10/27/wslink-unique-undocumented-malicious-loader-runs-server/</link>
+            <comments>https://www.welivesecurity.com/2021/10/27/wslink-unique-undocumented-malicious-loader-runs-server/#respond</comments>
+            <pubDate>Wed, 27 Oct 2021 09:30:06 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Vladislav Hrčka]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Malware]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156111</guid>
+            <description>
+                <![CDATA[<p>There are no code, functionality or operational similarities to suggest that this is a tool from a known threat actor</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/27/wslink-unique-undocumented-malicious-loader-runs-server/">Wslink: Unique and undocumented malicious loader that runs as a server</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/27/wslink-unique-undocumented-malicious-loader-runs-server/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/wslink-loader-malware-windows-eset-research.jpg</image>
+        </item>
+        <item>
+            <title>Putting cybersecurity first: Why secure‑by‑design must be the norm</title>
+            <link>https://www.welivesecurity.com/2021/10/26/putting-cybersecurity-first-why-secure-by-design-must-be-norm/</link>
+            <comments>https://www.welivesecurity.com/2021/10/26/putting-cybersecurity-first-why-secure-by-design-must-be-norm/#respond</comments>
+            <pubDate>Tue, 26 Oct 2021 09:30:48 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Phil Muncaster]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybersecurity]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=156013</guid>
+            <description>
+                <![CDATA[<p>Organizations that aim to pull ahead of the competition need to develop a strong security culture from top to bottom</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/26/putting-cybersecurity-first-why-secure-by-design-must-be-norm/">Putting cybersecurity first: Why secure&#8209;by&#8209;design must be the norm</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/26/putting-cybersecurity-first-why-secure-by-design-must-be-norm/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/cybersecurity-first-security-by-design.jpg</image>
+        </item>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-147/</link>
+            <pubDate>Fri, 22 Oct 2021 15:30:08 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=156027</guid>
+            <description>
+                <![CDATA[<p>How to break into cybersecurity – Is your password easy to guess? – Shining a spotlight on the security risks of shadow IT</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-147/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/0-17.jpg</image>
+        </item>
+        <item>
+            <title>What’s lurking in the shadows? How to manage the security risks of shadow IT</title>
+            <link>https://www.welivesecurity.com/2021/10/22/whats-lurking-shadows-how-manage-security-risks-shadow-it/</link>
+            <comments>https://www.welivesecurity.com/2021/10/22/whats-lurking-shadows-how-manage-security-risks-shadow-it/#respond</comments>
+            <pubDate>Fri, 22 Oct 2021 09:30:10 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Phil Muncaster]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybersecurity]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155928</guid>
+            <description>
+                <![CDATA[<p>Employee use of unsanctioned hardware and software is an increasingly acute problem in the remote and hybrid work era</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/22/whats-lurking-shadows-how-manage-security-risks-shadow-it/">What’s lurking in the shadows? How to manage the security risks of shadow&nbsp;IT</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/22/whats-lurking-shadows-how-manage-security-risks-shadow-it/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/shadow-it-cybersecurity-risks-covid-hybrid-work.jpg</image>
+        </item>
+        <item>
+            <title>Cybersecurity careers: What to know and how to get started</title>
+            <link>https://www.welivesecurity.com/2021/10/21/cybersecurity-careers-what-know-how-get-started/</link>
+            <comments>https://www.welivesecurity.com/2021/10/21/cybersecurity-careers-what-know-how-get-started/#respond</comments>
+            <pubDate>Thu, 21 Oct 2021 09:30:27 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[How To]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155892</guid>
+            <description>
+                <![CDATA[<p>Want to help make technology safer for everyone? Love solving puzzles? Looking for a rewarding career? Break into cybersecurity! Insights from ESET researchers Aryeh Goretsky and Cameron Camp will put you on the right track.</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/21/cybersecurity-careers-what-know-how-get-started/">Cybersecurity careers: What to know and how to get started</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/21/cybersecurity-careers-what-know-how-get-started/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/cybersecurity-careers-interview-eset-researchers.png</image>
+        </item>
+        <item>
+            <title>Brave browser replaces Google with its own search engine</title>
+            <link>https://www.welivesecurity.com/2021/10/20/brave-browser-replaces-google-own-search-engine/</link>
+            <comments>https://www.welivesecurity.com/2021/10/20/brave-browser-replaces-google-own-search-engine/#respond</comments>
+            <pubDate>Wed, 20 Oct 2021 20:32:20 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Privacy]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155925</guid>
+            <description>
+                <![CDATA[<p>Brave Search will become the default search option for new users in the US, UK, Canada, Germany and France, with more countries to follow soon</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/20/brave-browser-replaces-google-own-search-engine/">Brave browser replaces Google with its own search engine</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/20/brave-browser-replaces-google-own-search-engine/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/06/brave-search-engine-privacy-launch.jpg</image>
+        </item>
+        <item>
+            <title>$5.2 billion worth of Bitcoin transactions possibly tied to ransomware</title>
+            <link>https://www.welivesecurity.com/2021/10/19/52-billion-bitcoin-transactions-possibly-tied-ransomware/</link>
+            <comments>https://www.welivesecurity.com/2021/10/19/52-billion-bitcoin-transactions-possibly-tied-ransomware/#respond</comments>
+            <pubDate>Tue, 19 Oct 2021 18:23:09 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Ransomware]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155906</guid>
+            <description>
+                <![CDATA[<p>Threat actors are increasingly using advanced tactics to obfuscate and launder their illicit gains, a report by the US Government finds</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/19/52-billion-bitcoin-transactions-possibly-tied-ransomware/">$5.2 billion worth of Bitcoin transactions possibly tied to ransomware</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/19/52-billion-bitcoin-transactions-possibly-tied-ransomware/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/ransomware-payments-money-laundering-fincen-report.jpg</image>
+        </item>
+        <item>
+            <title>A recipe for failure: Predictably poor passwords</title>
+            <link>https://www.welivesecurity.com/2021/10/19/recipe-failure-predictably-poor-passwords/</link>
+            <comments>https://www.welivesecurity.com/2021/10/19/recipe-failure-predictably-poor-passwords/#respond</comments>
+            <pubDate>Tue, 19 Oct 2021 09:30:54 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Jake Moore]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Password]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155806</guid>
+            <description>
+                <![CDATA[<p>Security professionals advise to never use ‘beef stew’ as a password. It just isn’t stroganoff.</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/19/recipe-failure-predictably-poor-passwords/">A recipe for failure: Predictably poor passwords</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/19/recipe-failure-predictably-poor-passwords/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/cybersecurity-weak-passwords-reuse-1.jpg</image>
+        </item>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-146/</link>
+            <comments>https://www.welivesecurity.com/videos/week-security-tony-anscombe-146/#respond</comments>
+            <pubDate>Fri, 15 Oct 2021 13:45:25 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=155829</guid>
+            <description>
+                <![CDATA[<p>Phishing and how to avoid taking the bait – Offboarding employees securely – Why old malware refuses to die</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-146/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/videos/week-security-tony-anscombe-146/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/0-14.jpg</image>
+        </item>
+        <item>
+            <title>Virus Bulletin: Old malware never dies – it just gets more targeted</title>
+            <link>https://www.welivesecurity.com/2021/10/15/virus-bulletin-old-malware-never-dies-gets-more-targeted/</link>
+            <comments>https://www.welivesecurity.com/2021/10/15/virus-bulletin-old-malware-never-dies-gets-more-targeted/#respond</comments>
+            <pubDate>Fri, 15 Oct 2021 09:30:19 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Cameron Camp]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Malware]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155760</guid>
+            <description>
+                <![CDATA[<p>Putting a precision payload on top of more generic malware makes perfect sense for malware operators</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/15/virus-bulletin-old-malware-never-dies-gets-more-targeted/">Virus Bulletin: Old malware never dies – it just gets more targeted</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/15/virus-bulletin-old-malware-never-dies-gets-more-targeted/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/virus-bulletin-old-malware-targeted-attacks.jpg</image>
+        </item>
+        <item>
+            <title>Employee offboarding: Why companies must close a crucial gap in their security strategy</title>
+            <link>https://www.welivesecurity.com/2021/10/14/employee-offboarding-companies-close-crucial-gap-security/</link>
+            <comments>https://www.welivesecurity.com/2021/10/14/employee-offboarding-companies-close-crucial-gap-security/#respond</comments>
+            <pubDate>Thu, 14 Oct 2021 09:30:14 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Phil Muncaster]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybersecurity]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155709</guid>
+            <description>
+                <![CDATA[<p>There are various ways a departing employee could put your organization at risk of a data breach. How do you offboard employees the right way and ensure your data remains safe?</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/14/employee-offboarding-companies-close-crucial-gap-security/">Employee offboarding: Why companies must close a crucial gap in their security strategy</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/14/employee-offboarding-companies-close-crucial-gap-security/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/employee-offboarding-cybersecurity-data-risks.jpg</image>
+        </item>
+        <item>
+            <title>Don’t get phished! How to be the one that got away</title>
+            <link>https://www.welivesecurity.com/2021/10/13/phishing-how-be-one-got-away/</link>
+            <comments>https://www.welivesecurity.com/2021/10/13/phishing-how-be-one-got-away/#respond</comments>
+            <pubDate>Wed, 13 Oct 2021 09:30:48 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Tony Anscombe]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Scams]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155659</guid>
+            <description>
+                <![CDATA[<p>If it looks like a duck, swims like a duck, and quacks like a duck, then it's probably a duck. Now, how do you apply the duck test to defend against phishing?</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/13/phishing-how-be-one-got-away/">Don&#8217;t get phished! How to be the one that got away</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/13/phishing-how-be-one-got-away/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/phishing-scams-csam-defense.jpg</image>
+        </item>
+        <item>
+            <title>Microsoft thwarts record‑breaking DDoS attack</title>
+            <link>https://www.welivesecurity.com/2021/10/12/microsoft-thwarts-record-breaking-ddos-attack/</link>
+            <comments>https://www.welivesecurity.com/2021/10/12/microsoft-thwarts-record-breaking-ddos-attack/#respond</comments>
+            <pubDate>Tue, 12 Oct 2021 16:41:38 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybersecurity]]>
+            
+            </category>
+            <category>
+                <![CDATA[DDoS]]>
+            
+            </category>
+            <category>
+                <![CDATA[DNS]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155714</guid>
+            <description>
+                <![CDATA[<p>The attack, which clocked in at 2.4 Tbps, targeted an Azure customer based in Europe</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/12/microsoft-thwarts-record-breaking-ddos-attack/">Microsoft thwarts record&#8209;breaking DDoS attack</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/12/microsoft-thwarts-record-breaking-ddos-attack/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/ddos-azure-microsoft-attack.jpg</image>
+        </item>
+        <item>
+            <title>Ransomware cost US companies almost $21 billion in downtime in 2020</title>
+            <link>https://www.welivesecurity.com/2021/10/11/ransomware-cost-us-companies-almost-21billion-downtime-2020/</link>
+            <comments>https://www.welivesecurity.com/2021/10/11/ransomware-cost-us-companies-almost-21billion-downtime-2020/#respond</comments>
+            <pubDate>Mon, 11 Oct 2021 18:04:58 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Ransomware]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155689</guid>
+            <description>
+                <![CDATA[<p>The victims lost an average of nine days to downtime and two-and-a-half months to investigations, an analysis of disclosed attacks shows</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/11/ransomware-cost-us-companies-almost-21billion-downtime-2020/">Ransomware cost US companies almost $21 billion in downtime in 2020</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/11/ransomware-cost-us-companies-almost-21billion-downtime-2020/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/ransomware-us-companies-cost-downtime.jpg</image>
+        </item>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-145/</link>
+            <pubDate>Fri, 08 Oct 2021 13:45:02 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=155661</guid>
+            <description>
+                <![CDATA[<p>ESET research discovers ESPecter bootkit – FontOnLake targeting Linux – Fake SafeMoon app update</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-145/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/0-9.jpg</image>
+        </item>
+        <item>
+            <title>FontOnLake: Previously unknown malware family targeting Linux</title>
+            <link>https://www.welivesecurity.com/2021/10/07/fontonlake-previously-unknown-malware-family-targeting-linux/</link>
+            <comments>https://www.welivesecurity.com/2021/10/07/fontonlake-previously-unknown-malware-family-targeting-linux/#respond</comments>
+            <pubDate>Thu, 07 Oct 2021 09:30:16 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Vladislav Hrčka]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Malware]]>
+            
+            </category>
+            <category>
+                <![CDATA[backdoor]]>
+            
+            </category>
+            <category>
+                <![CDATA[Linux]]>
+            
+            </category>
+            <category>
+                <![CDATA[rootkit]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155556</guid>
+            <description>
+                <![CDATA[<p>ESET researchers discover a malware family with tools that show signs they’re used in targeted attacks</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/07/fontonlake-previously-unknown-malware-family-targeting-linux/">FontOnLake: Previously unknown malware family targeting Linux</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/07/fontonlake-previously-unknown-malware-family-targeting-linux/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/wls_penguin-fontonlake_1000x667.jpg</image>
+        </item>
+        <item>
+            <title>Google to turn on 2FA by default for 150 million users, 2 million YouTubers</title>
+            <link>https://www.welivesecurity.com/2021/10/06/google-turn-on-2fa-default-150-million-users-2-million-youtubers/</link>
+            <comments>https://www.welivesecurity.com/2021/10/06/google-turn-on-2fa-default-150-million-users-2-million-youtubers/#respond</comments>
+            <pubDate>Wed, 06 Oct 2021 16:51:39 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybersecurity]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155597</guid>
+            <description>
+                <![CDATA[<p>Two-factor authentication is a simple way to greatly enhance the security of your account</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/06/google-turn-on-2fa-default-150-million-users-2-million-youtubers/">Google to turn on 2FA by default for 150 million users, 2 million YouTubers</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/06/google-turn-on-2fa-default-150-million-users-2-million-youtubers/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/google-2fa-2sv-automatically-enabled.jpg</image>
+        </item>
+        <item>
+            <title>To the moon and hack: Fake SafeMoon app drops malware to spy on you</title>
+            <link>https://www.welivesecurity.com/2021/10/06/moon-hack-fake-safemoon-cryptocurrency-app-drops-malware-spy/</link>
+            <comments>https://www.welivesecurity.com/2021/10/06/moon-hack-fake-safemoon-cryptocurrency-app-drops-malware-spy/#respond</comments>
+            <pubDate>Wed, 06 Oct 2021 09:30:56 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Martina López]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Malware]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155413</guid>
+            <description>
+                <![CDATA[<p>Cryptocurrencies rise and fall, but one thing stays the same – cybercriminals attempt to cash in on the craze</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/06/moon-hack-fake-safemoon-cryptocurrency-app-drops-malware-spy/">To the moon and hack: Fake SafeMoon app drops malware to spy on you</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/06/moon-hack-fake-safemoon-cryptocurrency-app-drops-malware-spy/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/falsa-app-criptomoneda-safemoon-descarga-malware-1.jpg</image>
+        </item>
+        <item>
+            <title>UEFI threats moving to the ESP: Introducing ESPecter bootkit</title>
+            <link>https://www.welivesecurity.com/2021/10/05/uefi-threats-moving-esp-introducing-especter-bootkit/</link>
+            <comments>https://www.welivesecurity.com/2021/10/05/uefi-threats-moving-esp-introducing-especter-bootkit/#respond</comments>
+            <pubDate>Tue, 05 Oct 2021 09:30:30 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Martin Smolár]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Malware]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155437</guid>
+            <description>
+                <![CDATA[<p>ESET research discovers a previously undocumented UEFI bootkit with roots going back all the way to at least 2012 </p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/05/uefi-threats-moving-esp-introducing-especter-bootkit/">UEFI threats moving to the ESP: Introducing ESPecter bootkit</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/05/uefi-threats-moving-esp-introducing-especter-bootkit/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/especter-bootkit-uefi-esp-eset-research.jpg</image>
+        </item>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-144/</link>
+            <comments>https://www.welivesecurity.com/videos/week-security-tony-anscombe-144/#respond</comments>
+            <pubDate>Fri, 01 Oct 2021 15:30:28 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=155441</guid>
+            <description>
+                <![CDATA[<p>New ESET Threat Report is out – Cybersecurity Awareness Month begins today – What organizations should do to secure their VPNs</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-144/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/videos/week-security-tony-anscombe-144/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/0-5.jpg</image>
+        </item>
+        <item>
+            <title>October is Cybersecurity Awareness Month! Why being cyber‑smart matters</title>
+            <link>https://www.welivesecurity.com/2021/10/01/october-cybersecurity-awareness-month-being-cyber-smart/</link>
+            <comments>https://www.welivesecurity.com/2021/10/01/october-cybersecurity-awareness-month-being-cyber-smart/#respond</comments>
+            <pubDate>Fri, 01 Oct 2021 09:30:58 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybersecurity]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155294</guid>
+            <description>
+                <![CDATA[<p>The campaign may last for a month, but we should remember that cybersecurity is a year-round affair</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/10/01/october-cybersecurity-awareness-month-being-cyber-smart/">October is Cybersecurity Awareness Month! Why being cyber&#8209;smart matters</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/10/01/october-cybersecurity-awareness-month-being-cyber-smart/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/10/cybersecurity-awareness-month-october-becybersmart.jpg</image>
+        </item>
+        <item>
+            <title>Hackers could force locked iPhones to make contactless payments</title>
+            <link>https://www.welivesecurity.com/2021/09/30/hackers-could-force-locked-iphones-contactless-payments/</link>
+            <comments>https://www.welivesecurity.com/2021/09/30/hackers-could-force-locked-iphones-contactless-payments/#respond</comments>
+            <pubDate>Thu, 30 Sep 2021 16:33:53 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Vulnerability]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155369</guid>
+            <description>
+                <![CDATA[<p>Flaws in Apple Pay and Visa could allow criminals to make arbitrary contactless payments – no authentication needed, research finds</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/30/hackers-could-force-locked-iphones-contactless-payments/">Hackers could force locked iPhones to make contactless payments</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/30/hackers-could-force-locked-iphones-contactless-payments/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/apple-pay-iphone-visa-contactless-transactions.jpg</image>
+        </item>
+        <item>
+            <title>ESET Threat Report T2 2021</title>
+            <link>https://www.welivesecurity.com/2021/09/30/eset-threat-report-t22021/</link>
+            <comments>https://www.welivesecurity.com/2021/09/30/eset-threat-report-t22021/#respond</comments>
+            <pubDate>Thu, 30 Sep 2021 09:30:53 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Roman Kovac]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Threat Reports]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155124</guid>
+            <description>
+                <![CDATA[<p>A view of the T2 2021 threat landscape as seen by ESET telemetry and from the perspective of ESET threat detection and research experts</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/30/eset-threat-report-t22021/">ESET Threat Report T2 2021</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/30/eset-threat-report-t22021/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/wls_T2-2021_Threat-report-1000x667.jpg</image>
+        </item>
+        <item>
+            <title>CISA and NSA release guidance for securing VPNs</title>
+            <link>https://www.welivesecurity.com/2021/09/29/cisa-nsa-guidance-securing-vpns/</link>
+            <comments>https://www.welivesecurity.com/2021/09/29/cisa-nsa-guidance-securing-vpns/#respond</comments>
+            <pubDate>Wed, 29 Sep 2021 14:53:22 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybersecurity]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155308</guid>
+            <description>
+                <![CDATA[<p>What your organization should consider when it comes to choosing a VPN solution and hardening it against attacks</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/29/cisa-nsa-guidance-securing-vpns/">CISA and NSA release guidance for securing VPNs</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/29/cisa-nsa-guidance-securing-vpns/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/vpn-guidance-nsa-cisa.jpg</image>
+        </item>
+        <item>
+            <title>Google releases emergency fix to plug zero‑day hole in Chrome</title>
+            <link>https://www.welivesecurity.com/2021/09/27/google-releases-emergency-fix-plug-zero-day-hole-chrome/</link>
+            <comments>https://www.welivesecurity.com/2021/09/27/google-releases-emergency-fix-plug-zero-day-hole-chrome/#respond</comments>
+            <pubDate>Mon, 27 Sep 2021 15:06:54 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Vulnerability]]>
+            
+            </category>
+            <category>
+                <![CDATA[0-day]]>
+            
+            </category>
+            <category>
+                <![CDATA[browser]]>
+            
+            </category>
+            <category>
+                <![CDATA[chrome]]>
+            
+            </category>
+            <category>
+                <![CDATA[Google]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155223</guid>
+            <description>
+                <![CDATA[<p>The emergency release comes a mere three days after Google’s previous update that plugged another 19 security loopholes</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/27/google-releases-emergency-fix-plug-zero-day-hole-chrome/">Google releases emergency fix to plug zero&#8209;day hole in Chrome</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/27/google-releases-emergency-fix-plug-zero-day-hole-chrome/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/06/google-chrome-zero-day-patch.jpg</image>
+        </item>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-143/</link>
+            <comments>https://www.welivesecurity.com/videos/week-security-tony-anscombe-143/#respond</comments>
+            <pubDate>Fri, 24 Sep 2021 14:00:27 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=155176</guid>
+            <description>
+                <![CDATA[<p>ESET unmasks FamousSparrow APT group – Stopping cloud data leaks – European cybercrime ring busted </p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-143/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/videos/week-security-tony-anscombe-143/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/0-13.jpg</image>
+        </item>
+        <item>
+            <title>Bug in macOS Finder allows remote code execution</title>
+            <link>https://www.welivesecurity.com/2021/09/23/bug-macos-finder-remote-code-execution/</link>
+            <comments>https://www.welivesecurity.com/2021/09/23/bug-macos-finder-remote-code-execution/#respond</comments>
+            <pubDate>Thu, 23 Sep 2021 15:51:04 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Vulnerability]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155138</guid>
+            <description>
+                <![CDATA[<p>While Apple did issue a patch for the vulnerability, it seems that the fix can be easily circumvented </p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/23/bug-macos-finder-remote-code-execution/">Bug in macOS Finder allows remote code execution</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/23/bug-macos-finder-remote-code-execution/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/apple-macos-finder-vulnerability-unpatched.jpg</image>
+        </item>
+        <item>
+            <title>FamousSparrow: A suspicious hotel guest</title>
+            <link>https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/</link>
+            <comments>https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/#respond</comments>
+            <pubDate>Thu, 23 Sep 2021 09:30:19 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Tahseen Bin Taj]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Malware]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=154987</guid>
+            <description>
+                <![CDATA[<p>Yet another APT group that exploited the ProxyLogon vulnerability in March 2021</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/">FamousSparrow: A&nbsp;suspicious hotel guest</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/eset-research-famoussparrow-apt-group-proxylogon.jpg</image>
+        </item>
+        <item>
+            <title>Plugging the holes: How to prevent corporate data leaks in the cloud</title>
+            <link>https://www.welivesecurity.com/2021/09/22/plugging-holes-how-prevent-corporate-data-leaks-cloud/</link>
+            <comments>https://www.welivesecurity.com/2021/09/22/plugging-holes-how-prevent-corporate-data-leaks-cloud/#respond</comments>
+            <pubDate>Wed, 22 Sep 2021 09:30:26 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Phil Muncaster]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[data protection]]>
+            
+            </category>
+            <category>
+                <![CDATA[cloud]]>
+            
+            </category>
+            <category>
+                <![CDATA[Cloud Security]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=154993</guid>
+            <description>
+                <![CDATA[<p>Misconfigurations of cloud resources can lead to various security incidents and ultimately cost your organization dearly. Here’s what you can do to prevent cloud configuration conundrums.</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/22/plugging-holes-how-prevent-corporate-data-leaks-cloud/">Plugging the holes: How to prevent corporate data leaks in the cloud</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/22/plugging-holes-how-prevent-corporate-data-leaks-cloud/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/cloud-misconfigurations-corporate-data-leaks-prevention.jpg</image>
+        </item>
+        <item>
+            <title>European police dismantle cybercrime ring with ties to Italian Mafia</title>
+            <link>https://www.welivesecurity.com/2021/09/21/european-police-dismantle-cybercrime-ring-ties-italian-mafia/</link>
+            <comments>https://www.welivesecurity.com/2021/09/21/european-police-dismantle-cybercrime-ring-ties-italian-mafia/#respond</comments>
+            <pubDate>Tue, 21 Sep 2021 15:06:24 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybercrime]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=155031</guid>
+            <description>
+                <![CDATA[<p>The group used phishing, BEC and other types of attacks to swindle victims out of millions</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/21/european-police-dismantle-cybercrime-ring-ties-italian-mafia/">European police dismantle cybercrime ring with ties to Italian Mafia</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/21/european-police-dismantle-cybercrime-ring-ties-italian-mafia/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/europol-law-enforcement-crackdown-mafia-cybercrime.jpg</image>
+        </item>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-142/</link>
+            <comments>https://www.welivesecurity.com/videos/week-security-tony-anscombe-142/#respond</comments>
+            <pubDate>Fri, 17 Sep 2021 17:18:12 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=154940</guid>
+            <description>
+                <![CDATA[<p>Analysis of Numando banking trojan, steps to mitigate attack surface, and more! – Week in security with Tony Anscombe</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-142/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/videos/week-security-tony-anscombe-142/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/0-10.jpg</image>
+        </item>
+        <item>
+            <title>Numando: Count once, code twice</title>
+            <link>https://www.welivesecurity.com/2021/09/17/numando-latam-banking-trojan/</link>
+            <comments>https://www.welivesecurity.com/2021/09/17/numando-latam-banking-trojan/#respond</comments>
+            <pubDate>Fri, 17 Sep 2021 09:30:27 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[ESET Research]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Malware]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=154830</guid>
+            <description>
+                <![CDATA[<p>The (probably) penultimate post in our occasional series demystifying Latin American banking trojans.</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/17/numando-latam-banking-trojan/">Numando: Count once, code twice</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/17/numando-latam-banking-trojan/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/shutterstock_582222715-623x432-1.jpg</image>
+        </item>
+        <item>
+            <title>Microsoft Patch Tuesday fixes actively exploited zero‑day and 85 other flaws</title>
+            <link>https://www.welivesecurity.com/2021/09/15/microsoft-patch-tuesday-september-zero-day-flaws/</link>
+            <comments>https://www.welivesecurity.com/2021/09/15/microsoft-patch-tuesday-september-zero-day-flaws/#respond</comments>
+            <pubDate>Wed, 15 Sep 2021 16:00:46 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Vulnerability]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=154855</guid>
+            <description>
+                <![CDATA[<p>The most recent Patch Tuesday includes a fix for the previously disclosed and actively exploited remote code execution flaw in MSHTML.</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/15/microsoft-patch-tuesday-september-zero-day-flaws/">Microsoft Patch Tuesday fixes actively exploited zero&#8209;day and 85 other flaws</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/15/microsoft-patch-tuesday-september-zero-day-flaws/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2020/11/Patch-tuesday-fixes-17-critical-bugs-windows-zeroday.jpg</image>
+        </item>
+        <item>
+            <title>WhatsApp announces end‑to‑end encrypted backups</title>
+            <link>https://www.welivesecurity.com/2021/09/14/whatsapp-announces-end-to-end-encrypted-backups/</link>
+            <comments>https://www.welivesecurity.com/2021/09/14/whatsapp-announces-end-to-end-encrypted-backups/#respond</comments>
+            <pubDate>Tue, 14 Sep 2021 15:30:49 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Social Media]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=154825</guid>
+            <description>
+                <![CDATA[<p>The Facebook-owned messaging service plans to roll out the feature to both iOS and Android users in the coming weeks.</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/14/whatsapp-announces-end-to-end-encrypted-backups/">WhatsApp announces end&#8209;to&#8209;end encrypted backups</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/14/whatsapp-announces-end-to-end-encrypted-backups/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/shutterstock_1383449651-e1631641057946.jpg</image>
+        </item>
+        <item>
+            <title>What is a cyberattack surface and how can you reduce it?</title>
+            <link>https://www.welivesecurity.com/2021/09/14/cyber-attack-surface-reduce/</link>
+            <comments>https://www.welivesecurity.com/2021/09/14/cyber-attack-surface-reduce/#respond</comments>
+            <pubDate>Tue, 14 Sep 2021 09:30:58 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Phil Muncaster]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Cybersecurity]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=154738</guid>
+            <description>
+                <![CDATA[<p>Discover the best ways to mitigate your organization's attack surface, in order to maximize cybersecurity. </p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/14/cyber-attack-surface-reduce/">What is a cyberattack surface and how can you reduce it?</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/14/cyber-attack-surface-reduce/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/shutterstock_2004276500-e1631574598323.jpg</image>
+        </item>
+        <item>
+            <title>Beware of these 5 common scams you can encounter on Instagram</title>
+            <link>https://www.welivesecurity.com/2021/09/13/beware-common-scams-instagram/</link>
+            <comments>https://www.welivesecurity.com/2021/09/13/beware-common-scams-instagram/#respond</comments>
+            <pubDate>Mon, 13 Sep 2021 09:30:02 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Amer Owaida]]>
+            
+            </dc:creator>
+            <category>
+                <![CDATA[Scams]]>
+            
+            </category>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?p=154733</guid>
+            <description>
+                <![CDATA[<p>From cybercriminal evergreens like phishing to the verification badge scam, we look at the most common tactics fraudsters use to trick their victims</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/2021/09/13/beware-common-scams-instagram/">Beware of these 5 common scams you can encounter on Instagram</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/2021/09/13/beware-common-scams-instagram/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/wls_instagram-scams-1000x667.jpg</image>
+        </item>
+        <item>
+            <title>Week in security with Tony Anscombe</title>
+            <link>https://www.welivesecurity.com/videos/week-security-tony-anscombe-141/</link>
+            <comments>https://www.welivesecurity.com/videos/week-security-tony-anscombe-141/#respond</comments>
+            <pubDate>Fri, 10 Sep 2021 18:00:02 +0000</pubDate>
+            <dc:creator>
+                <![CDATA[Editor]]>
+            
+            </dc:creator>
+            <guid isPermaLink="false">https://backend.welivesecurity.com/?post_type=post_video&amp;p=154753</guid>
+            <description>
+                <![CDATA[<p>Cyberespionnage against Kurdish ethnic group, and more! – Week in security with Tony Anscombe</p><p>The post <a rel="nofollow" href="https://www.welivesecurity.com/videos/week-security-tony-anscombe-141/">Week in security with Tony Anscombe</a> appeared first on<a href="/" rel="nofollow">WeLiveSecurity</a></p>
+]]>
+            
+            </description>
+            <wfw:commentRss>https://www.welivesecurity.com/videos/week-security-tony-anscombe-141/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <image>https://www.welivesecurity.com/wp-content/uploads/2021/09/0-14.jpg</image>
+        </item>
+    </channel>
+</rss>
