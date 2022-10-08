@@ -15,7 +15,7 @@ Nossas explicações detalhadas devem ajudar a primeira categoria enquanto esper
 ### Conteúdo
 
 1. [Checklist de Segurança](security-checklist.md)
-2. [O que pode dar errado?](what-can-go-wrong.md)
+2. [O que pode dar errado?](o-que-pode-dar-errado.md)
 3. Transportando dados de forma segura: HTTP explicado
 4. Eu sou quem digo que sou: Autenticação 	
     1. 4.1 Autenticação baseada em formulário    
