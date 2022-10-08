@@ -1,7 +1,7 @@
 ## Guia de Segurança para Desenvolvedores
 
 -   [Coisas realmente importantes](#coisas-realmente-importantes)
--   [Melhores práticas gerais](#melhores-praticas-gerais)
+-   [Melhores práticas gerais](#melhores-práticas-gerais)
     -   [Processo de Desenvolvimento](#processo-de-desenvolvimento)
     -   [Design de aplicação](#design-de-aplicacao)
     -   [Proteção geral](#protecao-geral)
