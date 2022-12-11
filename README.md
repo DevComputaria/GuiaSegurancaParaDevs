@@ -63,7 +63,7 @@ Nossas explicações detalhadas devem ajudar a primeira categoria enquanto esper
     8. 12.7 DNS: De subdomínios e projetos menores esquecidos  	
     9. 12.7 Patching & Updates  	
 13. Quando o vilão chega: Ataques 	
-    1. 13.1 Sequestro de cliques 	
+    1. 13.1 [Sequestro de cliques](https://github.com/DevComputaria/GuiaSegurancaParaDevs/blob/main/Conteudo/Sequestro%20de%20cliques.md)	
     2. 13.2 Falsificação de Requisições Entre Sites (CSRF) 	
     3. 13.3 Negação de Serviço (DoS) 	
     4. 13.4 Falsificação de Requisições pelo Servidor (SSRF) 	
