@@ -29,20 +29,20 @@ Para obter mais informações sobre a defesa de Clickjacking, consulte aFolha de
 
 ## Referências
 
-- Por que estou ansioso com o Clickjacking?
+- [Por que estou ansioso com o Clickjacking?](https://www.linkedin.com/pulse/20141202104842-120953718-why-am-i-anxious-about-clickjacking)
 - Uma compreensão básica do ataque de clickjacking
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/frame-ancestors
 - Recurso de desenvolvedor Mozilla no cabeçalho de resposta Content-Security-Policy frame-ancestors.
 - https://developer.mozilla.org/en-US/docs/The_X-FRAME-OPTIONS_response_header
 - Recurso de desenvolvedor Mozilla no cabeçalho de resposta X-Frame-Options.
-- Busting Frame Busting: Um estudo das vulnerabilidades de clickjacking nos principais sites
+- [Busting Frame Busting: Um estudo das vulnerabilidades de clickjacking nos principais sites](http://w2spconf.com/2010/papers/p27.pdf)
 - Um estudo do Stanford Web Security Group descrevendo problemas com o código de quebra de quadro implantado.
-- Clickjacking, Teoria Sec
+- [Clickjacking, Teoria Sec](http://www.sectheory.com/clickjacking.htm)
 - Um artigo de Robert Hansen definindo o termo, suas implicações contra Flash no momento da redação deste artigo e uma linha do tempo de divulgação.
 - https://www.codemagi.com/blog/post/194
 - Defesa de quebra de quadros para navegadores herdados que não oferecem suporte a cabeçalhos X-Frame-Option.
 - Um filtro de servlet J2EE simples que envia cabeçalhos anti-enquadramento para o navegador.
-- CSP frame-ancestors vs. X-Frame-Options para prevenção de Clickjacking
+- [CSP frame-ancestors vs. X-Frame-Options para prevenção de Clickjacking](https://medium.com/@shaialon/csp-frame-ancestors-vs-x-frame-options-for-clickjacking-prevention-30383a713772)
 
 
 ---
